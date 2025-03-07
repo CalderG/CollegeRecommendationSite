@@ -1,0 +1,987 @@
+,School Name,City,State,Admission Rate,In-State Tuition,Student to Faculty Ratio,Student Population Size,On-Campus Housing Cost,Off-Campus Housing Cost,Degree of Urbanization,"Median Earnings, 7 Years after Entering College",Average SAT Score
+0,Alabama A & M University,Normal,AL,0.684,10024,19,5196,9520,9520,"City, Population Size between 100,000 and 250,000",28974,920
+1,University of Alabama at Birmingham,Birmingham,AL,0.8668,8832,18,12776,13120,14330,"City, Population Size between 100,000 and 250,000",42911,1291
+3,University of Alabama in Huntsville,Huntsville,AL,0.781,11878,17,6985,11122,11122,"City, Population Size between 100,000 and 250,000",52360,1259
+4,Alabama State University,Montgomery,AL,0.966,11068,14,3296,6050,7320,"City, Population Size between 100,000 and 250,000",26395,963
+5,The University of Alabama,Tuscaloosa,AL,0.8006,11940,19,31360,14426,14426,"City, Population Size between 100,000 and 250,000",48273,1304
+8,Auburn University at Montgomery,Montgomery,AL,0.9223,9100,15,3307,7368,10485,"City, Population Size between 100,000 and 250,000",37969,1051
+9,Auburn University,Auburn,AL,0.4374,12176,20,25234,14998,14998,"City, Population < 100,000",52489,1292
+10,Birmingham-Southern College,Birmingham,AL,0.5717,21250,10,968,14000,8000,"City, Population Size between 100,000 and 250,000",45292,1218
+15,Faulkner University,Montgomery,AL,0.8241,23920,13,1587,8020,8020,"City, Population Size between 100,000 and 250,000",36092,1021
+22,Huntingdon College,Montgomery,AL,0.6595,28350,14,810,10772,8772,"City, Population Size between 100,000 and 250,000",39452,1086
+26,Jacksonville State University,Jacksonville,AL,0.7846,11952,19,7066,8640,9972,"Suburb, Population < 100,000",37373,1055
+30,University of West Alabama,Livingston,AL,0.6886,10990,18,2424,7820,7200,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",34703,1015
+34,University of Mobile,Mobile,AL,0.8408,25880,14,1108,10676,9000,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",36729,1220
+42,Samford University,Birmingham,AL,0.8326,36725,14,3668,11264,13950,"Suburb, Population >= 250,000",46461,1227
+46,University of South Alabama,Mobile,AL,0.6536,9116,16,8171,8510,10010,"City, Population Size between 100,000 and 250,000",38334,1118
+47,Spring Hill College,Mobile,AL,0.7263,21732,12,932,11784,14638,"City, Population Size between 100,000 and 250,000",43120,1094
+51,Troy University,Troy,AL,0.9484,9312,16,10316,7599,10342,"Rural Town, Urban Cluster 35 miles away from an urban area",36498,1050
+52,Tuskegee University,Tuskegee,AL,0.2969,22614,7,2100,9844,10055,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38791,1091
+72,University of Arizona,Tucson,AZ,0.8676,13275,17,37979,13650,11100,"City, Population Size >= 250,000",47045,1229
+79,Embry-Riddle Aeronautical University-Prescott,Prescott,AZ,0.68,40464,18,3114,13160,13160,"City, Population < 100,000",65864,1278
+103,University of Arkansas at Little Rock,Little Rock,AR,0.6146,8366,11,4802,9162,11324,"City, Population Size between 100,000 and 250,000",37046,1089
+111,University of Arkansas,Fayetteville,AR,0.7893,9656,20,26002,12368,12368,"City, Population < 100,000",46655,1167
+112,University of Arkansas at Pine Bluff,Pine Bluff,AR,0.6933,8668,13,2155,8866,4996,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",28228,878
+114,Arkansas State University,Jonesboro,AR,0.6951,7456,15,7463,10100,9657,"City, Population < 100,000",35019,1119
+115,Arkansas Tech University,Russellville,AR,0.9439,8071,18,6108,9157,14355,"Rural Town, Urban Cluster 35 miles away from an urban area",34118,1090
+120,University of Central Arkansas,Conway,AR,0.9121,9778,14,7563,8250,8143,"City, Population < 100,000",35983,1118
+121,Central Baptist College,Conway,AR,0.6394,17700,10,489,7500,5852,"City, Population < 100,000",36685,1011
+128,Harding University,Searcy,AR,0.4512,23148,15,3198,7984,7984,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43030,1182
+129,Henderson State University,Arkadelphia,AR,0.7066,7560,16,1800,9558,8512,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",34313,1019
+130,Hendrix College,Conway,AR,0.6028,35100,11,1127,13600,10400,"City, Population < 100,000",38684,1246
+133,John Brown University,Siloam Springs,AR,0.5664,29720,15,1354,9920,2500,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43323,1218
+141,Ouachita Baptist University,Arkadelphia,AR,0.7232,31180,12,1587,8800,9650,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40001,1180
+144,University of the Ozarks,Clarksville,AR,0.6008,25950,14,767,8358,8358,"Rural Town, Urban Cluster 35 miles away from an urban area",32792,1087
+156,Williams Baptist University,Walnut Ridge,AR,0.5931,19450,16,556,8980,7700,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",34383,1050
+158,Southern Arkansas University Main Campus,Magnolia,AR,0.6361,9680,15,2787,7809,7809,"Rural Town, Urban Cluster 35 miles away from an urban area",34612,1088
+176,Azusa Pacific University,Azusa,CA,0.87,42330,10,3344,9222,17944,"Suburb, Population >= 250,000",51213,1132
+181,Biola University,La Mirada,CA,0.5663,44382,13,3474,10522,10522,"Suburb, Population >= 250,000",45038,1250
+191,California Lutheran University,Thousand Oaks,CA,0.8718,48012,14,2510,15490,17784,"City, Population Size between 100,000 and 250,000",54003,1258
+238,Chapman University,Orange,CA,0.7252,60672,12,7665,16954,14524,"City, Population Size between 100,000 and 250,000",56553,1316
+247,Claremont McKenna College,Claremont,CA,0.1035,60715,8,1383,18712,18172,"Suburb, Population >= 250,000",80442,1514
+270,Dominican University of California,San Rafael,CA,0.9318,49426,9,1139,15489,17784,"City, Population < 100,000",68427,1192
+300,Harvey Mudd College,Claremont,CA,0.1336,62817,8,906,19879,7546,"Suburb, Population >= 250,000",118953,1539
+315,University of La Verne,La Verne,CA,0.7351,47000,11,3363,15180,17784,"Suburb, Population >= 250,000",53283,1116
+339,Loyola Marymount University,Los Angeles,CA,0.4131,55926,11,7138,16098,17784,"City, Population Size >= 250,000",58391,1378
+384,Pacific Union College,Angwin,CA,0.4846,33678,13,772,9273,17784,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",51796,1075
+385,University of the Pacific,Stockton,CA,0.9323,53682,14,3266,14420,15733,"City, Population Size >= 250,000",64649,1276
+389,Pepperdine University,Malibu,CA,0.4871,63142,13,3656,18560,18560,"Suburb, Population >= 250,000",59226,1399
+393,Pomona College,Claremont,CA,0.0702,59238,7,1699,19358,16623,"Suburb, Population >= 250,000",55597,1520
+399,University of Redlands,Redlands,CA,0.8187,55678,10,2301,15758,15758,"City, Population < 100,000",58890,1215
+416,University of San Francisco,San Francisco,CA,0.7118,55532,13,5980,16550,16550,"City, Population Size >= 250,000",69451,1323
+421,William Jessup University,Rocklin,CA,0.6592,37150,11,1123,13249,17784,"Suburb, Population >= 250,000",44346,1130
+426,Santa Clara University,Santa Clara,CA,0.5211,57534,12,6103,17112,17784,"City, Population Size between 100,000 and 250,000",83996,1379
+453,University of Southern California,Los Angeles,CA,0.1202,64726,9,20505,17436,17436,"City, Population Size >= 250,000",72478,1520
+457,Thomas Aquinas College,Santa Paula,CA,0.8473,27000,11,516,9900,17784,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",42621,1328
+474,Westmont College,Santa Barbara,CA,0.8199,50066,10,1284,15760,8550,"Suburb, Population between 100,000 and 250,000",49335,1380
+475,Whittier College,Whittier,CA,0.7545,49864,10,1124,15623,9300,"Suburb, Population >= 250,000",42946,1231
+481,Adams State University,Alamosa,CO,0.9918,9776,13,1307,9220,12411,"Rural Town, Urban Cluster 35 miles away from an urban area",36129,1066
+485,University of Colorado Denver/Anschutz Medical Campus,Denver,CO,0.7458,9562,17,10922,14230,12411,"City, Population Size >= 250,000",51907,1150
+486,University of Colorado Colorado Springs,Colorado Springs,CO,0.8477,9129,15,9102,11400,11800,"City, Population Size >= 250,000",44019,1180
+488,University of Colorado Boulder,Boulder,CO,0.8073,13106,18,30598,16146,15164,"City, Population Size between 100,000 and 250,000",53159,1301
+490,Colorado College,Colorado Springs,CO,0.163,65028,10,2174,14376,14376,"City, Population Size >= 250,000",42725,1402
+494,Colorado School of Mines,Golden,CO,0.58,20040,17,5662,16110,12015,"Suburb, Population >= 250,000",79815,1403
+496,Colorado State University-Fort Collins,Fort Collins,CO,0.9077,12874,17,25150,13728,12411,"City, Population Size between 100,000 and 250,000",47821,1199
+503,University of Denver,Denver,CO,0.7768,56439,8,5986,15470,15470,"City, Population Size >= 250,000",54037,1348
+505,Fort Lewis College,Durango,CO,0.9098,9212,15,3113,12554,12410,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35434,1147
+510,Colorado Mesa University,Grand Junction,CO,0.8176,9297,18,7654,11522,10116,"City, Population < 100,000",36748,1062
+516,University of Northern Colorado,Greeley,CO,0.7854,11332,14,6024,12870,12014,"City, Population Size between 100,000 and 250,000",41450,1106
+521,Regis University,Denver,CO,0.7609,42220,9,2239,13416,12330,"City, Population Size >= 250,000",60613,1149
+524,Colorado State University Pueblo,Pueblo,CO,0.9879,9245,15,3008,11220,11440,"City, Population Size between 100,000 and 250,000",44071,1031
+531,Western Colorado University,Gunnison,CO,0.9185,10813,16,1673,10286,12411,"Rural Town, Urban Cluster 35 miles away from an urban area",37870,1154
+535,University of Bridgeport,Bridgeport,CT,0.8151,35760,14,1604,16350,8776,"City, Population Size between 100,000 and 250,000",41258,1090
+536,Central Connecticut State University,New Britain,CT,0.7671,12106,14,7500,12464,12464,"Suburb, Population >= 250,000",49656,1061
+539,Connecticut College,New London,CT,0.404,63005,10,1915,17280,17280,"City, Population < 100,000",54310,1427
+541,University of Connecticut,Storrs,CT,0.5451,19434,16,18768,13622,15388,"Fringe Town, Urban cluster that is 10 miles from an urban area",58770,1340
+544,Eastern Connecticut State University,Willimantic,CT,0.7383,12910,14,3534,16106,10283,"Fringe Town, Urban cluster that is 10 miles from an urban area",46225,1079
+545,Fairfield University,Fairfield,CT,0.5218,54455,12,4706,16750,16750,"Suburb, Population >= 250,000",75433,1325
+551,University of Hartford,West Hartford,CT,0.8275,46148,8,3876,13512,11902,"City, Population Size between 100,000 and 250,000",41345,1201
+561,University of New Haven,West Haven,CT,0.9124,44184,19,4765,18608,13870,"Suburb, Population >= 250,000",49240,1180
+568,Quinnipiac University,Hamden,CT,0.8379,51790,11,6021,15950,15700,"Suburb, Population >= 250,000",65742,1216
+570,University of Saint Joseph,West Hartford,CT,0.7485,44366,8,821,13240,13240,"City, Population < 100,000",48194,1170
+573,Trinity College,Hartford,CT,0.3614,63930,8,2141,16660,16660,"City, Population Size between 100,000 and 250,000",71516,1387
+577,Western Connecticut State University,Danbury,CT,0.8351,12345,11,3679,14568,13452,"City, Population < 100,000",44788,1126
+582,Delaware State University,Dover,DE,0.5492,8358,16,4588,14108,13494,"City, Population < 100,000",36569,939
+583,University of Delaware,Newark,DE,0.7381,15410,15,18665,14234,14234,"Suburb, Population >= 250,000",59828,1290
+587,American University,Washington,DC,0.4063,53889,11,7669,15706,15706,"City, Population Size >= 250,000",60487,1386
+591,Gallaudet University,Washington,DC,0.5921,17712,6,910,14800,14800,"City, Population Size >= 250,000",31467,896
+592,George Washington University,Washington,DC,0.4898,62200,12,10798,15720,15720,"City, Population Size >= 250,000",66229,1420
+594,Howard University,Washington,DC,0.5343,31050,14,9243,15880,18380,"City, Population Size >= 250,000",45187,1164
+600,Baptist University of Florida,Graceville,FL,0.9211,12450,8,254,5082,10020,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",32776,1045
+602,Bethune-Cookman University,Daytona Beach,FL,0.8497,14794,15,2628,10396,10396,"City, Population < 100,000",29210,903
+603,Lynn University,Boca Raton,FL,0.8011,41550,18,2789,13200,15829,"City, Population < 100,000",37576,1126
+609,Johnson University Florida,Kissimmee,FL,0.7931,18614,10,154,8591,11632,"Suburb, Population >= 250,000",32147,960
+610,University of Central Florida,Orlando,FL,0.4104,6368,29,57874,11498,11498,"Suburb, Population >= 250,000",45496,1281
+616,Eckerd College,Saint Petersburg,FL,0.6509,48900,11,1986,13854,13854,"City, Population Size >= 250,000",38265,1238
+619,Embry-Riddle Aeronautical University-Daytona Beach,Daytona Beach,FL,0.6453,40564,18,7155,12874,12874,"City, Population < 100,000",65864,1237
+620,Florida Agricultural and Mechanical University,Tallahassee,FL,0.3293,5785,14,7436,11644,9872,"City, Population Size between 100,000 and 250,000",35527,1077
+621,Florida Atlantic University,Boca Raton,FL,0.8132,4879,22,23074,12536,14840,"City, Population < 100,000",44590,1112
+623,Flagler College,Saint Augustine,FL,0.8095,23760,14,2591,13590,11700,"Suburb, Population < 100,000",40607,1168
+624,Florida College,Temple Terrace,FL,0.7168,18060,11,550,10200,12550,"Suburb, Population >= 250,000",37076,1114
+629,Florida Institute of Technology,Melbourne,FL,0.6437,43670,14,3114,12546,12340,"City, Population < 100,000",36415,1213
+630,Florida International University,Miami,FL,0.6386,6565,24,39277,11600,13994,"Suburb, Population >= 250,000",46662,1154
+635,Florida Southern College,Lakeland,FL,0.5661,40500,14,2702,12400,12400,"City, Population Size between 100,000 and 250,000",43834,1206
+636,Florida State University,Tallahassee,FL,0.2504,5656,17,32691,11592,11592,"City, Population Size between 100,000 and 250,000",47426,1309
+637,University of Florida,Gainesville,FL,0.2335,6381,16,33673,10950,10950,"City, Population Size between 100,000 and 250,000",54871,1397
+651,Jacksonville University,Jacksonville,FL,0.5769,43670,13,2541,15986,17730,"City, Population Size >= 250,000",57035,1165
+669,University of Miami,Coral Gables,FL,0.1894,57194,13,12215,16910,21150,"Suburb, Population >= 250,000",60672,1409
+673,University of North Florida,Jacksonville,FL,0.705,6389,19,13866,10192,12000,"City, Population Size >= 250,000",44219,1104
+674,Nova Southeastern University,Fort Lauderdale,FL,0.758,36300,17,6885,14588,16758,"Suburb, Population >= 250,000",48167,1164
+677,Palm Beach Atlantic University,West Palm Beach,FL,0.9466,35900,11,2396,11690,10581,"City, Population Size between 100,000 and 250,000",38362,1126
+688,Rollins College,Winter Park,FL,0.4999,56110,11,2567,15580,10100,"Suburb, Population >= 250,000",42072,1265
+690,Saint Leo University,Saint Leo,FL,0.801,27050,18,6717,15400,8460,"Fringe Town, Urban cluster that is 10 miles from an urban area",41433,1102
+700,University of South Florida,Tampa,FL,0.4393,6410,22,36763,12622,11844,"City, Population Size >= 250,000",45961,1235
+702,Stetson University,DeLand,FL,0.938,52320,11,2517,15290,15290,"City, Population < 100,000",42075,1205
+712,Trinity Baptist College,Jacksonville,FL,0.4959,14300,10,319,5740,15000,"City, Population Size >= 250,000",32713,987
+713,Trinity College of Florida,Trinity,FL,0.5977,16300,12,175,7600,6975,"Suburb, Population >= 250,000",29686,966
+715,Warner University,Lake Wales,FL,0.551,28044,13,738,10540,11800,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",35014,968
+719,University of West Florida,Pensacola,FL,0.4803,6360,22,8806,11268,11268,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",37283,1166
+724,Abraham Baldwin Agricultural College,Tifton,GA,0.6696,3165,19,3160,8230,6200,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",29825,986
+725,Agnes Scott College,Decatur,GA,0.6652,45786,11,923,13375,2500,"Suburb, Population >= 250,000",38722,1276
+734,Point University,West Point,GA,0.242,22300,13,1041,9000,9000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",33999,990
+738,Clark Atlanta University,Atlanta,GA,0.5626,24730,16,3419,10982,10982,"City, Population Size >= 250,000",30788,974
+740,Berry College,Mount Berry,GA,0.6631,39376,12,2232,13890,10982,"Suburb, Population < 100,000",41221,1210
+744,College of Coastal Georgia,Brunswick,GA,0.9833,3483,23,2812,10930,7234,"City, Population < 100,000",32824,997
+746,Clayton  State University,Morrow,GA,0.5632,5068,16,4540,10980,10467,"Suburb, Population >= 250,000",39229,980
+749,Columbus State University,Columbus,GA,0.878,5751,17,5637,12080,11622,"City, Population Size between 100,000 and 250,000",35220,1020
+751,Covenant College,Lookout Mountain,GA,0.8413,38860,12,808,11688,7000,"Suburb, Population >= 250,000",37290,1315
+757,Emory University,Atlanta,GA,0.1135,57948,9,7017,17016,17016,"City, Population Size >= 250,000",68643,1493
+759,Fort Valley State University,Fort Valley,GA,0.4309,5832,20,2347,8372,8000,"Fringe Town, Urban cluster that is 10 miles from an urban area",27657,871
+761,Georgia Institute of Technology-Main Campus,Atlanta,GA,0.1713,11764,19,17379,12342,12342,"City, Population Size >= 250,000",84375,1480
+762,Georgia Southwestern State University,Americus,GA,0.7318,4980,17,2092,8978,8098,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41235,1075
+763,Georgia College & State University,Milledgeville,GA,0.7995,8974,15,5185,10948,8140,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",47063,1144
+764,Georgia Southern University,Statesboro,GA,0.8889,6485,22,20996,10316,9814,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42367,1057
+765,Georgia State University,Atlanta,GA,0.6678,8478,26,28439,13816,14891,"City, Population Size >= 250,000",35468,1127
+766,University of Georgia,Athens,GA,0.4255,11180,17,30566,10904,8644,"City, Population Size between 100,000 and 250,000",52437,1335
+767,Gordon State College,Barnesville,GA,0.9332,3475,21,2663,9257,6230,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",32102,952
+775,Life University,Marietta,GA,0.9777,14406,13,910,18000,18000,"City, Population < 100,000",36691,983
+778,Mercer University,Macon,GA,0.7468,39708,13,4568,14046,14046,"City, Population Size between 100,000 and 250,000",46626,1288
+779,Morehouse College,Atlanta,GA,0.6001,29468,10,2564,14606,13779,"City, Population Size >= 250,000",39252,1090
+783,Oglethorpe University,Atlanta,GA,0.7099,43990,16,1426,14400,14400,"Suburb, Population >= 250,000",39475,1207
+785,Piedmont University,Demorest,GA,0.6435,29190,11,1212,11562,10076,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43392,1108
+789,Savannah College of Art and Design,Savannah,GA,0.8173,39605,20,13352,15594,12735,"City, Population Size between 100,000 and 250,000",36709,1179
+791,Shorter University,Rome,GA,0.9747,22810,15,1121,9400,10450,"City, Population < 100,000",40366,1059
+794,Thomas University,Thomasville,GA,0.4609,11080,12,726,7040,9900,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44755,1010
+795,Toccoa Falls College,Toccoa Falls,GA,0.6801,22350,17,835,8600,8100,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",32637,1114
+796,Truett McConnell University,Cleveland,GA,0.8083,24440,16,828,8856,8856,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",36078,1077
+798,Valdosta State University,Valdosta,GA,0.8947,6007,17,7277,8922,10138,"City, Population < 100,000",37512,1027
+800,University of West Georgia,Carrollton,GA,0.8012,5941,16,7939,11330,10742,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38654,1026
+803,University of Hawaii at Hilo,Hilo,HI,0.8424,7838,12,2381,8248,13484,"Rural Town, Urban Cluster 35 miles away from an urban area",37197,1020
+804,University of Hawaii at Manoa,Honolulu,HI,0.7277,12186,14,13915,14053,14053,"City, Population Size >= 250,000",44651,1113
+806,Hawaii Pacific University,Honolulu,HI,0.871,31940,16,2650,15278,15278,"City, Population Size >= 250,000",47645,1173
+815,Boise Bible College,Boise,ID,1,9770,11,95,7620,15456,"Suburb, Population >= 250,000",32006,950
+819,University of Idaho,Moscow,ID,0.7385,8396,16,7120,9898,9898,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41951,1129
+820,The College of Idaho,Caldwell,ID,0.4552,34630,10,1052,10820,7500,"Suburb, Population between 100,000 and 250,000",40425,1175
+821,Lewis-Clark State College,Lewiston,ID,0.8677,6999,15,2344,8460,8460,"City, Population < 100,000",38299,940
+824,Northwest Nazarene University,Nampa,ID,0.8819,36298,13,1115,10500,10116,"Suburb, Population between 100,000 and 250,000",43353,1139
+826,Brigham Young University-Idaho,Rexburg,ID,0.9556,4536,19,42213,4676,4676,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38741,1107
+832,Augustana College,Rock Island,IL,0.6122,47916,11,2274,11782,11782,"City, Population < 100,000",49016,1145
+833,Aurora University,Aurora,IL,0.819,27420,18,3987,12360,4014,"Suburb, Population >= 250,000",48078,1087
+839,Bradley University,Peoria,IL,0.7514,37800,12,4133,12196,12196,"City, Population Size between 100,000 and 250,000",55849,1208
+864,DePaul University,Chicago,IL,0.7017,42840,17,13968,16068,16068,"City, Population Size >= 250,000",54399,1221
+868,Eastern Illinois University,Charleston,IL,0.6796,13101,15,4586,10812,10342,"Rural Town, Urban Cluster 35 miles away from an urban area",41743,1000
+870,Elmhurst University,Elmhurst,IL,0.7601,40232,13,2897,11250,10866,"Suburb, Population >= 250,000",51238,1107
+876,Governors State University,University Park,IL,0.5748,10468,10,2589,11000,11638,"Suburb, Population >= 250,000",46424,945
+878,Greenville University,Greenville,IL,0.9412,30548,12,902,9614,8140,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38514,1003
+885,University of Illinois Chicago,Chicago,IL,0.7869,14046,18,21567,14400,14400,"City, Population Size >= 250,000",52246,1232
+889,Illinois Wesleyan University,Bloomington,IL,0.4222,53814,11,1518,12418,12418,"City, Population < 100,000",57097,1263
+891,Illinois College,Jacksonville,IL,0.7718,36346,12,1011,9964,6300,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42806,1076
+893,Illinois Institute of Technology,Chicago,IL,0.6144,50640,13,2877,15570,12600,"City, Population Size >= 250,000",68517,1328
+894,Illinois State University,Normal,IL,0.8624,15170,19,18019,10602,8462,"Suburb, Population between 100,000 and 250,000",50073,1111
+900,Judson University,Elgin,IL,0.582,30910,10,781,11320,9500,"City, Population Size between 100,000 and 250,000",44116,1032
+904,Knox College,Galesburg,IL,0.7332,53259,9,1051,10326,10326,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38260,1311
+907,Lake Forest College,Lake Forest,IL,0.5972,52902,12,1724,11898,11898,"Suburb, Population >= 250,000",48499,1281
+912,Lewis University,Romeoville,IL,0.7406,36530,14,3650,11956,7500,"Suburb, Population >= 250,000",51812,1133
+916,Loyola University Chicago,Chicago,IL,0.7915,49498,13,11626,15520,12840,"City, Population Size >= 250,000",55895,1308
+926,Millikin University,Decatur,IL,0.754,26892,10,1603,12836,12836,"City, Population < 100,000",41778,1087
+927,Monmouth College,Monmouth,IL,0.907,42214,10,761,10690,7500,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39553,1141
+935,North Central College,Naperville,IL,0.6087,43046,12,2304,11998,9420,"City, Population Size between 100,000 and 250,000",47336,1138
+936,North Park University,Chicago,IL,0.6801,34020,10,1866,10125,10125,"City, Population Size >= 250,000",47121,1120
+939,Northwestern University,Evanston,IL,0.0721,63468,6,8837,19440,19440,"City, Population < 100,000",72370,1526
+952,Rockford University,Rockford,IL,0.5491,35050,10,908,10410,7750,"City, Population Size between 100,000 and 250,000",43113,980
+953,Roosevelt University,Chicago,IL,0.8832,33068,11,2362,15025,8600,"City, Population Size >= 250,000",40184,973
+954,Dominican University,River Forest,IL,0.8953,36500,11,2119,11050,11050,"Suburb, Population >= 250,000",48414,1012
+957,University of St Francis,Joliet,IL,0.5842,36000,13,1390,11430,7200,"Suburb, Population >= 250,000",52912,1166
+971,Southern Illinois University-Carbondale,Carbondale,IL,0.915,15416,11,7922,10622,10622,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41805,1068
+972,Southern Illinois University-Edwardsville,Edwardsville,IL,0.9751,12558,15,9283,10272,10272,"Suburb, Population >= 250,000",43850,1080
+976,Trinity Christian College,Palos Heights,IL,0.7068,34325,10,783,10500,4050,"Suburb, Population >= 250,000",43572,1088
+977,Trinity International University-Illinois,Deerfield,IL,0.9126,33898,12,409,10840,11500,"Suburb, Population >= 250,000",37614,1076
+984,Wheaton College,Wheaton,IL,0.8843,42240,12,2141,11690,11690,"Suburb, Population >= 250,000",47805,1367
+986,Anderson University,Anderson,IN,0.5175,34080,9,1111,11420,8300,"City, Population < 100,000",39897,1090
+987,Ball State University,Muncie,IN,0.6895,10440,15,13466,10904,10904,"City, Population < 100,000",42460,1191
+988,Bethel University,Mishawaka,IN,0.9947,32040,12,1115,10050,8150,"City, Population < 100,000",41189,850
+989,Butler University,Indianapolis,IN,0.8206,44460,11,4304,15260,15260,"City, Population Size >= 250,000",61894,1262
+995,DePauw University,Greencastle,IN,0.658,55410,9,1732,14400,10000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",53202,1275
+997,Earlham College,Richmond,IN,0.7324,50058,6,589,12448,8140,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35308,1261
+998,University of Evansville,Evansville,IN,0.7632,41336,10,1460,13840,12024,"City, Population Size between 100,000 and 250,000",45138,1180
+999,Franklin College,Franklin,IN,0.9286,36136,11,859,11305,9462,"Suburb, Population >= 250,000",45119,1096
+1000,Goshen College,Goshen,IN,0.9354,36660,9,704,11100,8920,"City, Population < 100,000",43624,1132
+1001,Grace College and Theological Seminary,Winona Lake,IN,0.8462,29048,18,1458,10276,8000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",38506,1103
+1002,Hanover College,Hanover,IN,0.7411,41559,11,949,13148,13148,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42878,1214
+1004,Holy Cross College,Notre Dame,IN,0.7617,34800,10,422,12000,9000,"Suburb, Population >= 250,000",42492,1320
+1006,Huntington University,Huntington,IN,0.775,28830,12,1066,9500,8700,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35959,1100
+1008,Purdue University Fort Wayne,Fort Wayne,IN,0.8066,8985,13,5482,10111,10111,"City, Population Size >= 250,000",38842,1101
+1009,Indiana University-Indianapolis,Indianapolis,IN,0.8289,10144,13,17278,11252,11252,"City, Population Size >= 250,000",43849,1157
+1012,University of Southern Indiana,Evansville,IN,0.9444,10210,16,5491,10058,11194,"Suburb, Population between 100,000 and 250,000",40010,1139
+1015,Indiana University-South Bend,South Bend,IN,0.8688,7941,12,3666,9190,9412,"City, Population Size between 100,000 and 250,000",37826,1064
+1016,Indiana University-Bloomington,Bloomington,IN,0.8241,11447,17,35401,12228,12228,"City, Population < 100,000",49927,1322
+1018,Indiana University-Southeast,New Albany,IN,0.8523,7941,12,3133,11012,9412,"Suburb, Population >= 250,000",39656,1124
+1026,Indiana Wesleyan University-Marion,Marion,IN,0.8672,29684,13,2097,10050,7032,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",51220,1120
+1031,University of Notre Dame,Notre Dame,IN,0.1291,60301,9,8917,16710,16710,"Suburb, Population >= 250,000",84235,1515
+1032,Oakland City University,Oakland City,IN,0.5572,26400,11,604,10400,7596,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",39407,1010
+1036,Rose-Hulman Institute of Technology,Terre Haute,IN,0.7302,54602,12,2154,16647,16647,"City, Population < 100,000",84392,1398
+1037,University of Saint Francis-Fort Wayne,Fort Wayne,IN,0.9806,34050,12,1572,11220,10720,"City, Population Size >= 250,000",42941,1050
+1038,Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,0.7817,32700,9,801,11350,6920,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",36096,1021
+1039,Saint Mary's College,Notre Dame,IN,0.8389,49930,9,1378,13580,9350,"Suburb, Population >= 250,000",53552,1259
+1042,Taylor University,Upland,IN,0.7461,37476,13,1767,11058,8846,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",43286,1233
+1044,Valparaiso University,Valparaiso,IN,0.9415,44796,11,2342,13180,8900,"Suburb, Population < 100,000",51121,1260
+1047,Wabash College,Crawfordsville,IN,0.6149,47475,9,835,12500,5000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",50694,1230
+1050,Buena Vista University,Storm Lake,IA,0.7727,38644,12,1419,10680,8134,"Rural Town, Urban Cluster 35 miles away from an urban area",41350,1115
+1053,Central College,Pella,IA,0.7924,19800,13,1135,10860,10860,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44324,1117
+1054,Clarke University,Dubuque,IA,0.848,38060,9,724,10600,10600,"City, Population < 100,000",45637,1055
+1056,Cornell College,Mount Vernon,IA,0.7933,49158,13,1056,10872,10872,"Fringe Town, Urban cluster that is 10 miles from an urban area",40239,1253
+1059,Dordt University,Sioux Center,IA,0.8767,34600,14,1472,10990,11330,"Rural Town, Urban Cluster 35 miles away from an urban area",45044,1182
+1060,Drake University,Des Moines,IA,0.6723,47912,10,2794,11570,11570,"City, Population Size between 100,000 and 250,000",57268,1304
+1063,Emmaus Bible College,Dubuque,IA,1,19800,7,188,9050,4950,"City, Population < 100,000",33570,1090
+1065,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,0.5245,18740,15,313,7540,7540,"Suburb, Population >= 250,000",29753,1090
+1077,Iowa State University,Ames,IA,0.9022,10133,18,24994,9358,9358,"City, Population < 100,000",51327,1197
+1078,Iowa Wesleyan University,Mount Pleasant,IA,0.8081,34700,13,734,11340,7110,"Rural Town, Urban Cluster 35 miles away from an urban area",38956,1003
+1080,University of Iowa,Iowa City,IA,0.86,10353,16,21545,11476,11476,"City, Population < 100,000",51999,1222
+1087,Luther College,Decorah,IA,0.7532,48160,11,1603,10670,10670,"Rural Town, Urban Cluster 35 miles away from an urban area",45814,1241
+1092,Mount Mercy University,Cedar Rapids,IA,0.7527,37606,13,1201,10636,8100,"City, Population Size between 100,000 and 250,000",48677,1090
+1095,University of Northern Iowa,Cedar Falls,IA,0.9495,9411,17,7571,9343,9160,"City, Population < 100,000",44621,1121
+1102,Saint Ambrose University,Davenport,IA,0.7392,34570,12,2108,11988,10782,"City, Population Size between 100,000 and 250,000",49839,1153
+1105,Simpson College,Indianola,IA,0.891,45108,10,1115,9654,8140,"Fringe Town, Urban cluster that is 10 miles from an urban area",45002,1410
+1111,Upper Iowa University,Fayette,IA,0.5423,33639,13,2203,9644,9644,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",45393,1065
+1113,Wartburg College,Waverly,IA,0.9745,49190,13,1402,10280,10280,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44469,1113
+1117,William Penn University,Oskaloosa,IA,0.5767,27800,18,1362,7528,6884,"Rural Town, Urban Cluster 35 miles away from an urban area",39549,971
+1119,Baker University,Baldwin City,KS,0.9175,32320,13,1115,9440,8440,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",51792,1050
+1121,Benedictine College,Atchison,KS,0.9883,33720,14,2155,11580,10000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41434,1220
+1122,Bethany College,Lindsborg,KS,0.6603,31305,11,684,13076,8144,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",39962,1010
+1123,Bethel College-North Newton,North Newton,KS,0.9715,32090,10,497,9410,12146,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43930,1082
+1132,Emporia State University,Emporia,KS,0.9567,7001,17,2663,9308,9308,"Rural Town, Urban Cluster 35 miles away from an urban area",38643,1090
+1134,Fort Hays State University,Hays,KS,0.8802,5430,15,10066,8481,8481,"Rural Town, Urban Cluster 35 miles away from an urban area",40602,1051
+1136,Friends University,Wichita,KS,0.6327,31812,12,993,8326,8141,"City, Population Size >= 250,000",41406,1112
+1149,University of Kansas,Lawrence,KS,0.8784,11167,17,18539,10136,9994,"City, Population < 100,000",49482,1192
+1157,Manhattan Christian College,Manhattan,KS,0.4796,17914,12,121,8976,14436,"City, Population < 100,000",33115,1090
+1158,McPherson College,McPherson,KS,0.6588,33536,13,812,9918,10144,"Rural Town, Urban Cluster 35 miles away from an urban area",39250,1026
+1159,MidAmerica Nazarene University,Olathe,KS,0.6682,34832,11,975,9848,11632,"Suburb, Population >= 250,000",54566,1048
+1163,Ottawa University-Ottawa,Ottawa,KS,0.7823,33380,11,851,11934,10000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",45136,993
+1165,Pittsburg State University,Pittsburg,KS,0.8618,7970,14,4221,9426,9658,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41069,1090
+1167,University of Saint Mary,Leavenworth,KS,0.8193,32540,12,798,9070,8260,"Fringe Town, Urban cluster that is 10 miles from an urban area",48337,1045
+1170,Southwestern College,Winfield,KS,0.7016,36650,9,1050,9380,8141,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44046,1026
+1171,Sterling College,Sterling,KS,0.611,30000,9,566,9336,9336,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",37870,1076
+1172,Tabor College,Hillsboro,KS,0.5271,35050,15,507,9300,9500,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",45177,1035
+1175,Wichita State University,Wichita,KS,0.9485,8866,20,10304,12610,11272,"City, Population Size >= 250,000",42275,1118
+1177,Alice Lloyd College,Pippa Passes,KY,0.9833,14250,16,538,7660,5000,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",32879,980
+1181,Bellarmine University,Louisville,KY,0.8778,46030,12,2275,9714,9714,"City, Population Size >= 250,000",46791,1191
+1182,Berea College,Berea,KY,0.2458,45026,8,1412,7742,7742,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",32156,1220
+1188,Centre College,Danville,KY,0.6285,48070,10,1347,12300,10000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",45904,1366
+1192,University of the Cumberlands,Williamsburg,KY,0.8302,9875,18,4609,9300,8640,"Rural Town, Urban Cluster 35 miles away from an urban area",35901,1049
+1193,Eastern Kentucky University,Richmond,KY,0.6431,9844,16,11215,10360,10360,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37199,1051
+1196,Georgetown College,Georgetown,KY,0.7152,41600,14,1204,11210,8182,"Fringe Town, Urban cluster that is 10 miles from an urban area",36982,1093
+1205,Kentucky Mountain Bible College,Jackson,KY,0.45,10060,12,71,5430,6500,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",27296,1120
+1206,Kentucky State University,Frankfort,KY,0.915,9004,11,1343,8076,7034,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",30112,889
+1207,Kentucky Wesleyan College,Owensboro,KY,0.6855,31300,12,760,11175,7987,"City, Population < 100,000",37256,1053
+1208,University of Kentucky,Lexington,KY,0.9489,12859,17,22115,14676,12148,"City, Population Size >= 250,000",45429,1189
+1209,Kentucky Christian University,Grayson,KY,0.4439,23700,13,448,8980,8980,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37141,959
+1212,University of Louisville,Louisville,KY,0.8154,12520,13,13822,10668,10144,"City, Population Size >= 250,000",43229,1153
+1216,Midway University,Midway,KY,0.9376,25050,15,1187,8600,8600,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",35082,1113
+1218,Murray State University,Murray,KY,0.8398,9432,16,6588,10160,10824,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35895,1109
+1220,Northern Kentucky University,Highland Heights,KY,0.8601,10592,17,8677,11248,11248,"Suburb, Population >= 250,000",40663,1123
+1231,Spalding University,Louisville,KY,0.9764,27300,9,635,8300,12132,"City, Population Size >= 250,000",40961,1013
+1233,Thomas More University,Crestview Hills,KY,0.9424,35810,14,1420,10014,8140,"Suburb, Population >= 250,000",47050,1092
+1234,Transylvania University,Lexington,KY,0.9079,43670,10,976,12750,12750,"City, Population Size >= 250,000",37080,1250
+1235,Union College,Barbourville,KY,0.5342,30946,9,711,8261,8261,"Rural Town, Urban Cluster 35 miles away from an urban area",34380,980
+1236,Western Kentucky University,Bowling Green,KY,0.9695,11112,18,12149,11072,11072,"City, Population < 100,000",35033,1088
+1241,Centenary College of Louisiana,Shreveport,LA,0.6365,38820,8,511,13940,10450,"City, Population Size between 100,000 and 250,000",41508,1188
+1247,Dillard University,New Orleans,LA,0.7989,20224,13,1220,10730,9795,"City, Population Size >= 250,000",29497,1082
+1249,Grambling State University,Grambling,LA,0.4237,7683,25,4163,10990,9932,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",26314,938
+1254,Louisiana State University-Alexandria,Alexandria,LA,0.5767,7050,14,3600,9598,9350,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",35155,1019
+1255,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,0.7572,11954,22,27729,13956,15414,"City, Population Size between 100,000 and 250,000",46054,1221
+1257,Louisiana State University-Shreveport,Shreveport,LA,0.8891,7327,24,2137,10226,10468,"City, Population Size between 100,000 and 250,000",36729,1091
+1261,Louisiana Christian University,Pineville,LA,0.7461,19720,11,767,7646,10468,"Suburb, Population < 100,000",40631,1085
+1263,Louisiana Tech University,Ruston,LA,0.6237,10065,23,7434,9447,9570,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42884,1190
+1265,McNeese State University,Lake Charles,LA,0.7124,8440,19,4928,9878,10468,"City, Population < 100,000",37189,1089
+1266,University of New Orleans,New Orleans,LA,0.6976,9172,18,4925,12174,10468,"City, Population Size >= 250,000",37624,1088
+1268,Nicholls State University,Thibodaux,LA,0.9843,8156,17,4808,10602,9932,"City, Population < 100,000",36722,1088
+1269,University of Louisiana at Monroe,Monroe,LA,0.7011,9082,17,5032,9551,10468,"City, Population < 100,000",36263,1132
+1271,Northwestern State University of Louisiana,Natchitoches,LA,0.9793,8672,17,6243,10269,10468,"Rural Town, Urban Cluster 35 miles away from an urban area",38420,1089
+1284,Southeastern Louisiana University,Hammond,LA,0.9898,8373,18,9567,9430,10468,"City, Population < 100,000",36810,1090
+1285,Southern University and A & M College,Baton Rouge,LA,0.539,9940,18,5171,9366,10468,"City, Population Size between 100,000 and 250,000",32745,940
+1286,Southern University at New Orleans,New Orleans,LA,0.9353,7471,13,1144,9480,10468,"City, Population Size >= 250,000",27088,950
+1290,Tulane University of Louisiana,New Orleans,LA,0.1145,62844,8,8490,17346,17346,"City, Population Size >= 250,000",47037,1443
+1291,Xavier University of Louisiana,New Orleans,LA,0.9516,26863,13,2681,10400,12645,"City, Population Size >= 250,000",39181,1103
+1298,Colby College,Waterville,ME,0.0761,63520,10,2299,16330,6200,"Rural Town, Urban Cluster 35 miles away from an urban area",52148,1501
+1303,University of Maine at Farmington,Farmington,ME,0.9417,9890,11,1217,10764,10764,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",34296,1110
+1305,University of Maine,Orono,ME,0.9396,12136,14,8720,12050,12050,"Suburb, Population < 100,000",41321,1202
+1306,Maine Maritime Academy,Castine,ME,0.5765,14562,11,874,11240,11240,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",85480,1166
+1312,Saint Joseph's College of Maine,Standish,ME,0.8084,41586,10,963,14936,7200,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",54603,1060
+1315,University of Southern Maine,Portland,ME,0.8543,10120,14,4322,10924,10924,"City, Population < 100,000",41482,1109
+1325,Bowie State University,Bowie,MD,0.8654,8748,15,5289,12468,15740,"Suburb, Population >= 250,000",42547,910
+1331,Coppin State University,Baltimore,MD,0.4495,6904,10,1708,11746,13141,"City, Population Size >= 250,000",36946,940
+1337,Goucher College,Baltimore,MD,0.8024,49220,7,981,16780,10000,"City, Population < 100,000",40132,1258
+1343,Johns Hopkins University,Baltimore,MD,0.0725,60480,6,5643,17640,13808,"City, Population Size >= 250,000",83890,1553
+1345,Loyola University Maryland,Baltimore,MD,0.8348,53430,13,3968,16500,9940,"City, Population Size >= 250,000",65269,1285
+1348,University of Maryland-Baltimore County,Baltimore,MD,0.8055,12606,18,10557,13378,15466,"Suburb, Population >= 250,000",53461,1295
+1349,University of Maryland-College Park,College Park,MD,0.4461,11233,18,29982,14576,15060,"Suburb, Population >= 250,000",64155,1461
+1350,Maryland Institute College of Art,Baltimore,MD,0.7958,53815,9,1401,15290,10990,"City, Population Size >= 250,000",35305,1169
+1355,Morgan State University,Baltimore,MD,0.8538,8008,17,7599,12162,12902,"City, Population Size >= 250,000",39611,971
+1356,Mount St. Mary's University,Emmitsburg,MD,0.7957,45870,13,1824,14320,6600,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",49605,1146
+1362,Salisbury University,Salisbury,MD,0.9106,10396,13,6145,12990,12990,"Suburb, Population < 100,000",50417,1237
+1363,St. Mary's College of Maryland,St. Mary's City,MD,0.773,15184,10,1476,14146,14146,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",51280,1261
+1364,St. John's College,Annapolis,MD,0.499,37260,8,462,14270,10000,"Suburb, Population >= 250,000",33058,1378
+1365,Towson University,Towson,MD,0.786,10818,15,16734,13642,13642,"City, Population < 100,000",51306,1138
+1369,Washington College,Chestertown,MD,0.7471,52481,9,935,13834,9388,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",48633,1259
+1374,Amherst College,Amherst,MA,0.0726,64100,7,1898,16750,16750,"City, Population < 100,000",66683,1513
+1378,Babson College,Wellesley,MA,0.2235,54944,16,2709,19028,19028,"Suburb, Population >= 250,000",83999,1434
+1381,Bay Path University,Longmeadow,MA,0.7563,35781,11,1263,12799,3500,"Suburb, Population >= 250,000",40705,1080
+1383,Bentley University,Waltham,MA,0.5788,56500,12,4070,18660,18660,"City, Population < 100,000",83822,1346
+1389,Boston College,Chestnut Hill,MA,0.1666,64176,12,9751,16120,11750,"City, Population < 100,000",74589,1500
+1390,Boston University,Boston,MA,0.1437,62360,11,17668,17400,17400,"City, Population Size >= 250,000",62743,1454
+1391,Brandeis University,Waltham,MA,0.3941,62322,10,3675,17092,12074,"City, Population < 100,000",56751,1473
+1392,Bridgewater State University,Bridgewater,MA,0.8771,11051,17,7911,14162,14162,"Suburb, Population >= 250,000",42390,1110
+1400,Clark University,Worcester,MA,0.5032,52352,9,2363,11164,11164,"City, Population Size between 100,000 and 250,000",42516,1373
+1407,Eastern Nazarene College,Quincy,MA,0.6192,27990,9,408,10700,10700,"Suburb, Population >= 250,000",41180,1035
+1408,Emerson College,Boston,MA,0.4275,53232,15,4147,19528,16650,"City, Population Size >= 250,000",46641,1373
+1409,Emmanuel College,Boston,MA,0.7969,44908,13,1855,16730,16730,"City, Population Size >= 250,000",54137,1233
+1410,Endicott College,Beverly,MA,0.7331,37776,12,2999,16958,13257,"Suburb, Population >= 250,000",47884,1205
+1413,Fitchburg State University,Fitchburg,MA,0.8606,10921,12,2911,13516,10250,"Suburb, Population between 100,000 and 250,000",46062,1124
+1414,Framingham State University,Framingham,MA,0.8741,11380,11,2712,13160,13160,"City, Population < 100,000",45542,1105
+1416,Gordon College,Wenham,MA,0.9176,27040,14,1255,12150,12150,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",40243,1215
+1423,College of the Holy Cross,Worcester,MA,0.3636,58360,10,3062,16620,16620,"City, Population Size between 100,000 and 250,000",67926,1361
+1425,Lasell University,Newton,MA,0.7321,42630,11,1236,16500,8000,"City, Population < 100,000",47727,1149
+1430,University of Massachusetts-Lowell,Lowell,MA,0.8595,16182,17,11985,13930,6100,"Suburb, Population >= 250,000",59876,1255
+1431,University of Massachusetts-Amherst,Amherst,MA,0.6352,16952,18,24111,14123,14123,"City, Population < 100,000",57010,1376
+1432,University of Massachusetts-Boston,Boston,MA,0.8076,15132,16,11749,16896,14833,"City, Population Size >= 250,000",54570,1198
+1434,MCPHS University,Boston,MA,0.8826,37230,10,3488,19520,19520,"City, Population Size >= 250,000",84319,1232
+1436,Massachusetts Institute of Technology,Cambridge,MA,0.0396,57986,3,4638,18790,18790,"City, Population Size between 100,000 and 250,000",118516,1560
+1446,Mount Holyoke College,South Hadley,MA,0.3976,58498,9,2183,17180,14920,"Suburb, Population >= 250,000",45044,1432
+1452,Nichols College,Dudley,MA,0.8486,38800,16,1164,14110,8160,"Suburb, Population >= 250,000",43416,1060
+1456,Northeastern University,Boston,MA,0.068,60192,16,16172,18430,18430,"City, Population Size >= 250,000",71049,1505
+1458,College of Our Lady of the Elms,Chicopee,MA,0.9091,40635,10,915,14830,9814,"Suburb, Population >= 250,000",48841,1140
+1465,Salem State University,Salem,MA,0.9266,11978,12,4592,14954,10588,"Suburb, Population >= 250,000",48959,1110
+1466,Simmons University,Boston,MA,0.7646,44350,7,1786,16368,16368,"City, Population Size >= 250,000",55764,1297
+1468,Smith College,Northampton,MA,0.2286,58768,8,2515,20340,9674,"City, Population < 100,000",46644,1455
+1470,Springfield College,Springfield,MA,0.7563,41694,11,2002,13720,13720,"City, Population Size between 100,000 and 250,000",40712,1216
+1472,University of Massachusetts-Dartmouth,North Dartmouth,MA,0.9552,14854,15,5331,16493,10000,"Suburb, Population between 100,000 and 250,000",51727,1149
+1474,Suffolk University,Boston,MA,0.8679,43332,13,4325,18482,20923,"City, Population Size >= 250,000",52669,1204
+1476,Tufts University,Medford,MA,0.0969,65222,10,6747,16778,16778,"Suburb, Population >= 250,000",57530,1513
+1477,Wellesley College,Wellesley,MA,0.1357,61920,7,2353,19080,2050,"Suburb, Population >= 250,000",59040,1500
+1478,Wentworth Institute of Technology,Boston,MA,0.9231,38760,17,3557,15420,15420,"City, Population Size >= 250,000",69171,1215
+1479,Western New England University,Springfield,MA,0.8801,44500,11,2402,14670,8100,"City, Population Size between 100,000 and 250,000",56923,1194
+1481,Wheaton College (Massachusetts),Norton,MA,0.7948,60230,11,1653,14800,14800,"Suburb, Population >= 250,000",49246,1346
+1484,Worcester State University,Worcester,MA,0.8766,10786,14,4025,13245,5400,"City, Population Size between 100,000 and 250,000",45806,1135
+1485,Adrian College,Adrian,MI,0.6906,39596,16,1688,12980,12870,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41486,1050
+1491,Andrews University,Berrien Springs,MI,0.9127,32734,10,1249,9474,13658,"Fringe Town, Urban cluster that is 10 miles from an urban area",42804,1184
+1492,Aquinas College,Grand Rapids,MI,0.9078,37280,11,1107,10572,6782,"City, Population Size between 100,000 and 250,000",37555,1100
+1496,Calvin University,Grand Rapids,MI,0.7421,38620,12,2833,11150,11150,"City, Population Size between 100,000 and 250,000",46873,1263
+1500,Central Michigan University,Mount Pleasant,MI,0.7895,13650,17,10297,11248,8000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43881,1104
+1504,Concordia University Ann Arbor,Ann Arbor,MI,0.7018,32982,11,843,12160,12160,"City, Population Size between 100,000 and 250,000",46700,1050
+1512,University of Detroit Mercy,Detroit,MI,0.9053,31058,11,2322,10444,11222,"City, Population Size >= 250,000",59357,1090
+1514,Eastern Michigan University,Ypsilanti,MI,0.8323,16410,14,11206,11396,11526,"Suburb, Population >= 250,000",40440,1056
+1516,Ferris State University,Big Rapids,MI,0.8788,13076,15,8390,10268,8446,"Rural Town, Urban Cluster 35 miles away from an urban area",45373,1032
+1518,Kettering University,Flint,MI,0.8075,44380,12,1401,8930,8930,"City, Population < 100,000",77520,1266
+1523,Grand Valley State University,Allendale,MI,0.9037,13952,15,18487,10140,8352,"Fringe Town, Urban cluster that is 10 miles from an urban area",44050,1092
+1527,Hope College,Holland,MI,0.8045,38370,11,3173,11900,6580,"City, Population < 100,000",47582,1213
+1529,Kalamazoo College,Kalamazoo,MI,0.7925,56562,10,1192,11340,11340,"City, Population < 100,000",47628,1264
+1535,Lake Superior State University,Sault Ste Marie,MI,0.7691,13728,13,1468,11016,8200,"Rural Town, Urban Cluster 35 miles away from an urban area",42777,1097
+1542,University of Michigan-Ann Arbor,Ann Arbor,MI,0.1769,16736,12,32448,13171,13171,"City, Population Size between 100,000 and 250,000",67792,1473
+1544,Michigan State University,East Lansing,MI,0.8795,15372,17,39021,10990,10990,"City, Population < 100,000",53701,1273
+1545,Michigan Technological University,Houghton,MI,0.9368,17614,13,5633,12058,12058,"Rural Town, Urban Cluster 35 miles away from an urban area",66800,1245
+1547,University of Michigan-Flint,Flint,MI,0.6635,13242,13,4029,10628,7732,"City, Population < 100,000",43975,1071
+1555,Northwood University,Midland,MI,0.7968,31600,8,1911,12120,10694,"City, Population < 100,000",51053,1055
+1557,Oakland University,Rochester Hills,MI,0.9005,14476,17,12626,11192,7860,"Suburb, Population >= 250,000",45402,1140
+1565,Saginaw Valley State University,University Center,MI,0.7637,11565,16,6211,11400,11400,"Suburb, Population between 100,000 and 250,000",41216,1073
+1567,Siena Heights University,Adrian,MI,0.6498,29044,12,1554,12200,12200,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",47551,1048
+1570,Spring Arbor University,Spring Arbor,MI,0.4732,31660,10,1021,10652,10652,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",41250,1078
+1578,Wayne State University,Detroit,MI,0.7532,14675,14,15669,11321,11706,"City, Population Size >= 250,000",42592,1147
+1581,Western Michigan University,Kalamazoo,MI,0.8455,14623,16,13264,11102,11102,"City, Population < 100,000",43067,1105
+1590,Bemidji State University,Bemidji,MN,0.7752,10130,16,3187,9572,9572,"Rural Town, Urban Cluster 35 miles away from an urban area",45244,1090
+1591,Bethany Lutheran College,Mankato,MN,0.585,29010,12,641,8270,8270,"City, Population < 100,000",38087,1147
+1592,Bethel University,Saint Paul,MN,0.7249,41270,12,2090,11490,8470,"Suburb, Population >= 250,000",52654,1190
+1595,Concordia College at Moorhead,Moorhead,MN,0.6553,28916,12,1800,10510,9300,"Suburb, Population between 100,000 and 250,000",46426,1220
+1596,Concordia University-Saint Paul,Saint Paul,MN,0.6909,24400,13,2760,10200,10200,"City, Population Size >= 250,000",48414,1190
+1598,Martin Luther College,New Ulm,MN,0.8372,17420,9,697,6880,6880,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37838,1194
+1602,Gustavus Adolphus College,Saint Peter,MN,0.739,53030,11,2069,11010,11010,"Fringe Town, Urban cluster that is 10 miles from an urban area",48470,1320
+1603,Hamline University,Saint Paul,MN,0.8055,46616,13,1745,11213,11213,"City, Population Size >= 250,000",47601,1152
+1612,Minnesota State University-Mankato,Mankato,MN,0.7068,9444,21,11354,10606,7758,"City, Population < 100,000",47704,1090
+1615,University of Minnesota-Twin Cities,Minneapolis,MN,0.7491,15859,16,30560,11894,11894,"City, Population Size >= 250,000",54565,1355
+1617,Minneapolis College of Art and Design,Minneapolis,MN,0.5689,42560,9,689,7290,7290,"City, Population Size >= 250,000",33370,1234
+1621,University of Minnesota-Duluth,Duluth,MN,0.807,14126,16,7754,9638,9638,"City, Population < 100,000",49198,1220
+1624,Minnesota State University Moorhead,Moorhead,MN,0.5662,10236,17,3462,10104,10104,"Suburb, Population between 100,000 and 250,000",42396,1090
+1629,University of Northwestern-St Paul,Saint Paul,MN,0.9251,35340,15,1512,10644,7440,"Suburb, Population >= 250,000",42825,1186
+1634,College of Saint Benedict,Saint Joseph,MN,0.878,52108,11,1428,11922,11922,"Suburb, Population between 100,000 and 250,000",50645,1186
+1636,Saint Cloud State University,Saint Cloud,MN,0.9528,10117,16,5395,9950,9950,"City, Population < 100,000",45679,1093
+1637,Saint Johns University,Collegeville,MN,0.8624,52164,11,1501,11890,11890,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",59128,1144
+1638,Saint Mary's University of Minnesota,Winona,MN,0.9683,41150,17,1080,10220,10220,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",50163,1150
+1639,St Olaf College,Northfield,MN,0.5641,54650,12,3019,12450,12450,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",46817,1377
+1641,The College of Saint Scholastica,Duluth,MN,0.9661,39410,10,1923,10996,10996,"City, Population < 100,000",56045,1220
+1642,University of St Thomas,Saint Paul,MN,0.77,50366,13,5868,12587,14950,"City, Population Size >= 250,000",60194,1290
+1644,St Catherine University,Saint Paul,MN,0.9253,47870,10,2349,9900,9900,"City, Population Size >= 250,000",50044,1127
+1647,Southwest Minnesota State University,Marshall,MN,0.9159,10122,15,1956,9258,9258,"Rural Town, Urban Cluster 35 miles away from an urban area",42381,1050
+1650,Dunwoody College of Technology,Minneapolis,MN,0.9804,24611,12,1351,13840,13840,"City, Population Size >= 250,000",55019,1020
+1653,Winona State University,Winona,MN,0.7375,10492,16,5254,9654,9654,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",49054,1121
+1656,Alcorn State University,Alcorn State,MS,0.2993,8549,16,2344,10255,10255,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",27429,1019
+1657,Belhaven University,Jackson,MS,0.426,28375,9,1414,9100,6500,"City, Population Size between 100,000 and 250,000",37451,1059
+1658,Blue Mountain Christian University,Blue Mountain,MS,0.957,19280,14,540,8452,7400,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",33760,1089
+1662,Delta State University,Cleveland,MS,0.9861,8605,10,1627,8317,8500,"Rural Town, Urban Cluster 35 miles away from an urban area",33231,1055
+1670,Jackson State University,Jackson,MS,0.8864,8445,15,4905,10445,10445,"City, Population Size between 100,000 and 250,000",30345,1022
+1673,Millsaps College,Jackson,MS,0.6783,43815,9,622,14210,14550,"City, Population Size between 100,000 and 250,000",39915,1223
+1675,University of Mississippi,University,MS,0.9738,9220,16,17157,11490,11490,"Rural Town, Urban Cluster 35 miles away from an urban area",42109,1199
+1676,Mississippi University for Women,Columbus,MS,0.9911,7866,11,1701,8212,8100,"Rural Town, Urban Cluster 35 miles away from an urban area",36894,1050
+1677,Mississippi Valley State University,Itta Bena,MS,0.6478,7414,12,1169,8112,7201,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",25895,870
+1678,Mississippi College,Clinton,MS,0.3999,21098,13,2098,11818,12656,"Suburb, Population >= 250,000",40631,1190
+1681,Mississippi State University,Mississippi State,MS,0.7519,9398,16,18154,10964,10964,"Rural Town, Urban Cluster 35 miles away from an urban area",39950,1215
+1685,Rust College,Holly Springs,MS,0.7876,9900,8,731,5200,4400,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",23744,1003
+1688,University of Southern Mississippi,Hattiesburg,MS,0.9884,9450,15,10149,11338,9900,"City, Population < 100,000",35766,1150
+1692,William Carey University,Hattiesburg,MS,0.5358,14685,13,1772,7463,7463,"City, Population < 100,000",35209,1188
+1694,Avila University,Kansas City,MO,0.6763,22390,10,937,7710,10686,"City, Population Size >= 250,000",44448,1090
+1698,Calvary University,Kansas City,MO,0.6316,12500,8,202,6124,13523,"City, Population Size >= 250,000",31523,1058
+1701,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,0.9786,27140,13,1074,8910,8140,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",40703,1045
+1702,University of Central Missouri,Warrensburg,MO,0.7134,9413,19,5920,9699,9699,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39832,1090
+1711,Culver-Stockton College,Canton,MO,0.9695,29195,14,854,9270,9634,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",39291,1120
+1712,Drury University,Springfield,MO,0.6343,33830,12,1369,10232,10232,"City, Population Size between 100,000 and 250,000",34289,1221
+1720,Hannibal-LaGrange University,Hannibal,MO,0.6711,25600,11,397,9400,9000,"Rural Town, Urban Cluster 35 miles away from an urban area",36298,1042
+1732,Lindenwood University,Saint Charles,MO,0.7402,19300,13,4627,10200,15360,"City, Population < 100,000",42897,1177
+1741,Missouri Baptist University,Saint Louis,MO,0.709,33316,19,1508,12040,8249,"Suburb, Population >= 250,000",36667,1147
+1742,Missouri Southern State University,Joplin,MO,0.9948,8026,17,3245,7624,7108,"City, Population < 100,000",36021,1089
+1743,Missouri Valley College,Marshall,MO,0.6124,22450,13,1269,10300,8420,"Rural Town, Urban Cluster 35 miles away from an urban area",34863,1000
+1745,University of Missouri-Columbia,Columbia,MO,0.7913,11981,18,23206,10890,10890,"City, Population Size between 100,000 and 250,000",49864,1249
+1746,University of Missouri-Kansas City,Kansas City,MO,0.6948,11287,14,6479,12262,12270,"City, Population Size >= 250,000",45269,1231
+1748,University of Missouri-St Louis,Saint Louis,MO,0.5111,11693,13,5378,10920,12376,"Suburb, Population >= 250,000",44698,1146
+1752,Truman State University,Kirksville,MO,0.4505,9014,13,2920,9936,9936,"Rural Town, Urban Cluster 35 miles away from an urban area",41820,1246
+1753,Northwest Missouri State University,Maryville,MO,0.8556,9502,18,4679,10428,10428,"Rural Town, Urban Cluster 35 miles away from an urban area",39762,1089
+1755,College of the Ozarks,Point Lookout,MO,0.2113,20290,15,1481,8200,7954,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35092,1124
+1761,Rockhurst University,Kansas City,MO,0.6646,41701,13,1732,10280,17680,"City, Population Size >= 250,000",55483,1220
+1762,Saint Louis University,Saint Louis,MO,0.8471,50644,9,7332,13890,13890,"City, Population Size >= 250,000",57234,1340
+1764,University of Health Sciences and Pharmacy in St. Louis,Saint Louis,MO,0.9158,31280,7,264,14500,12310,"City, Population Size >= 250,000",122881,1161
+1767,Southwest Baptist University,Bolivar,MO,0.9955,27038,11,1475,8290,7884,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",36513,1081
+1771,Stephens College,Columbia,MO,0.6415,25586,8,404,11488,12148,"City, Population Size between 100,000 and 250,000",35879,1124
+1772,Southeast Missouri State University,Cape Girardeau,MO,0.8631,9015,20,7010,9954,9954,"City, Population < 100,000",37047,1055
+1773,Missouri State University-Springfield,Springfield,MO,0.9256,8604,19,13332,9782,8768,"City, Population Size between 100,000 and 250,000",39272,1147
+1777,Washington University in St Louis,Saint Louis,MO,0.1176,60590,7,7801,18470,18470,"Suburb, Population >= 250,000",75755,1525
+1778,Webster University,Saint Louis,MO,0.551,29840,12,2174,12398,13200,"Suburb, Population >= 250,000",40383,1153
+1779,Westminster College,Fulton,MO,0.7528,33144,9,607,11762,11762,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40317,1049
+1780,William Jewell College,Liberty,MO,0.4099,19610,10,824,10130,12843,"Suburb, Population >= 250,000",48778,1146
+1787,Carroll College,Helena,MT,0.7808,39028,12,1108,11182,11182,"City, Population < 100,000",46331,1108
+1795,University of Providence,Great Falls,MT,0.9548,27606,7,593,10233,8000,"City, Population < 100,000",36755,1010
+1799,Montana Technological University,Butte,MT,0.8947,7580,13,1424,10741,10741,"Rural Town, Urban Cluster 35 miles away from an urban area",45530,1131
+1800,Montana State University,Bozeman,MT,0.7333,7727,18,14343,11300,11300,"City, Population < 100,000",40452,1158
+1803,Rocky Mountain College,Billings,MT,0.7517,32252,13,834,9120,9119,"City, Population Size between 100,000 and 250,000",41343,1054
+1812,Concordia University-Nebraska,Seward,NE,0.9084,37720,12,1138,10050,10050,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39920,1116
+1813,Creighton University,Omaha,NE,0.7569,45590,11,4261,11830,11830,"City, Population Size >= 250,000",59761,1344
+1815,Hastings College,Hastings,NE,0.7133,34580,12,918,11190,10190,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43164,1250
+1818,University of Nebraska at Kearney,Kearney,NE,0.8599,7984,13,4159,11390,11390,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41956,1119
+1822,Midland University,Fremont,NE,0.649,38300,14,1204,10066,10066,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43102,1087
+1823,University of Nebraska at Omaha,Omaha,NE,0.8586,8136,15,11866,10642,10642,"City, Population Size >= 250,000",44022,1120
+1826,Nebraska Wesleyan University,Lincoln,NE,0.8148,39868,11,1530,11374,11930,"City, Population Size >= 250,000",45775,1201
+1827,University of Nebraska-Lincoln,Lincoln,NE,0.7864,9872,16,19097,12430,12430,"City, Population Size >= 250,000",45872,1192
+1831,College of Saint Mary,Omaha,NE,0.6458,22450,8,502,8240,11632,"City, Population Size >= 250,000",50836,1050
+1833,Union Adventist University,Lincoln,NE,0.9883,27170,8,475,7750,12000,"City, Population Size >= 250,000",38815,1082
+1837,York University,York,NE,0.5729,20900,11,442,9000,7620,"Rural Town, Urban Cluster 35 miles away from an urban area",34302,1021
+1842,University of Nevada-Las Vegas,Las Vegas,NV,0.8531,8947,18,24329,11512,12710,"City, Population Size between 100,000 and 250,000",43306,1092
+1851,Franklin Pierce University,Rindge,NH,0.9272,43155,12,1115,15300,15000,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",45422,1095
+1859,University of New Hampshire-Main Campus,Durham,NH,0.8699,19024,16,11396,12676,12676,"Fringe Town, Urban cluster that is 10 miles from an urban area",52890,1217
+1861,University of New Hampshire at Manchester,Manchester,NH,0.8528,15804,7,507,14968,12570,"City, Population Size between 100,000 and 250,000",52890,1090
+1872,Saint Anselm College,Manchester,NH,0.823,45340,11,1955,16000,13250,"Suburb, Population between 100,000 and 250,000",58952,1218
+1883,Bloomfield College,Bloomfield,NJ,0.7818,30680,13,1149,12900,14254,"Suburb, Population >= 250,000",36993,862
+1886,Caldwell University,Caldwell,NJ,0.6637,38050,13,1595,13399,14000,"Suburb, Population >= 250,000",42421,1136
+1894,Drew University,Madison,NJ,0.7266,44174,12,1419,16402,16402,"Suburb, Population >= 250,000",45335,1245
+1898,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,0.8409,34404,13,2415,15588,15588,"Suburb, Population >= 250,000",44783,1059
+1899,Felician University,Lodi,NJ,0.8915,36410,13,1696,13660,11700,"Suburb, Population >= 250,000",46671,1037
+1900,Fairleigh Dickinson University-Florham Campus,Madison,NJ,0.8912,34404,9,2012,15588,15588,"Suburb, Population >= 250,000",44783,1178
+1902,Georgian Court University,Lakewood,NJ,0.7579,35516,10,1166,12296,9882,"City, Population < 100,000",41948,1115
+1903,Rowan University,Glassboro,NJ,0.7694,14952,16,14914,15956,9854,"Suburb, Population >= 250,000",50231,1197
+1911,Kean University,Union,NJ,0.826,12972,16,10524,14834,9800,"Suburb, Population >= 250,000",46236,1016
+1916,Monmouth University,West Long Branch,NJ,0.9092,43216,12,3799,15873,9955,"Suburb, Population >= 250,000",54123,1203
+1917,Montclair State University,Montclair,NJ,0.9131,13762,17,16902,16170,17318,"Suburb, Population >= 250,000",48078,1080
+1922,New Jersey Institute of Technology,Newark,NJ,0.6599,18512,15,8365,14600,12200,"City, Population Size >= 250,000",68192,1325
+1931,Ramapo College of New Jersey,Mahwah,NJ,0.7047,15363,16,4611,15528,11428,"Suburb, Population >= 250,000",52446,1214
+1933,Rider University,Lawrenceville,NJ,0.8413,37200,10,3105,16130,6300,"Suburb, Population >= 250,000",50668,1214
+1934,Rutgers University-Camden,Camden,NJ,0.7652,16112,13,4077,12923,17878,"City, Population < 100,000",58494,1168
+1935,Rutgers University-New Brunswick,New Brunswick,NJ,0.6629,16263,15,36090,13909,17878,"City, Population < 100,000",58494,1374
+1941,Seton Hall University,South Orange,NJ,0.7507,48960,14,5874,16532,16532,"Suburb, Population >= 250,000",57189,1317
+1945,Stevens Institute of Technology,Hoboken,NJ,0.4622,58624,11,4054,17080,17080,"Suburb, Population >= 250,000",88405,1455
+1946,Stockton University,Galloway,NJ,0.8554,15188,16,8105,13564,8956,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",47708,1150
+1950,The College of New Jersey,Ewing,NJ,0.6443,17978,13,6840,14144,14144,"Suburb, Population >= 250,000",60838,1283
+1952,William Paterson University of New Jersey,Wayne,NJ,0.9153,14624,15,6591,13160,11330,"Suburb, Population >= 250,000",45279,1150
+1958,Eastern New Mexico University-Main Campus,Portales,NM,0.2755,6863,16,2899,8170,7842,"Rural Town, Urban Cluster 35 miles away from an urban area",31638,961
+1967,University of New Mexico-Main Campus,Albuquerque,NM,0.9607,8076,17,15642,10916,10916,"City, Population Size >= 250,000",34861,1090
+1971,New Mexico State University-Main Campus,Las Cruces,NM,0.7805,7627,16,11065,11252,9865,"Suburb, Population between 100,000 and 250,000",30836,1031
+1984,Adelphi University,Garden City,NY,0.7278,43800,12,5004,18016,16100,"Suburb, Population >= 250,000",60750,1233
+1987,Albany College of Pharmacy and Health Sciences,Albany,NY,0.6629,38225,8,584,11600,11900,"City, Population Size between 100,000 and 250,000",117456,1320
+1990,Alfred University,Alfred,NY,0.5061,37644,10,1305,13560,13560,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",43208,1211
+2002,Barnard College,New York,NY,0.0879,62525,10,3126,19364,19364,"City, Population Size >= 250,000",66077,1495
+2017,Canisius University,Buffalo,NY,0.7773,31800,11,1750,12158,8000,"City, Population Size >= 250,000",46737,1200
+2025,Clarkson University,Potsdam,NY,0.7842,56258,14,2587,16744,17006,"Rural Town, Urban Cluster 35 miles away from an urban area",69155,1282
+2031,Columbia University in the City of New York,New York,NY,0.0395,66139,6,8902,16286,16212,"City, Population Size >= 250,000",83776,1540
+2035,The Cooper Union for the Advancement of Science and Art,New York,NY,0.2247,46820,9,892,18226,15910,"City, Population Size >= 250,000",39123,1472
+2036,Cornell University,Ithaca,NY,0.0747,63200,9,15676,16988,16988,"City, Population < 100,000",85814,1527
+2040,Culinary Institute of America,Hyde Park,NY,0.9486,36620,20,3005,13110,11980,"Suburb, Population >= 250,000",40171,1110
+2061,D'Youville  University,Buffalo,NY,0.8404,31170,7,1372,9500,9500,"City, Population Size >= 250,000",55755,1132
+2064,Dominican University New York,Orangeburg,NY,0.8897,32120,13,1079,14020,10000,"Suburb, Population >= 250,000",45687,1080
+2067,Elmira College,Elmira,NY,0.9595,37004,7,603,13388,2500,"City, Population < 100,000",47293,1220
+2072,Fordham University,Bronx,NY,0.5413,58467,14,9843,21060,13743,"City, Population Size >= 250,000",63774,1411
+2077,Hartwick College,Oneonta,NY,0.5972,51309,10,1085,14028,6000,"Rural Town, Urban Cluster 35 miles away from an urban area",44991,1112
+2081,Hobart William Smith Colleges,Geneva,NY,0.6838,61725,8,1539,16910,14875,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",56339,1339
+2082,Hofstra University,Hempstead,NY,0.6933,53330,13,6051,17168,23890,"Suburb, Population >= 250,000",53862,1285
+2083,Houghton University,Houghton,NY,0.77,16446,10,745,10336,7000,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",36029,1200
+2086,Iona University,New Rochelle,NY,0.964,44328,15,2633,17740,17740,"Suburb, Population >= 250,000",54390,1122
+2089,Ithaca College,Ithaca,NY,0.752,48276,10,4601,15934,15934,"Suburb, Population < 100,000",49433,1308
+2096,Keuka College,Keuka Park,NY,0.9279,36191,12,983,12691,10320,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",46087,1042
+2097,LIM College,New York,NY,0.8382,30610,15,1075,18625,15700,"City, Population Size >= 250,000",52957,1067
+2098,Le Moyne College,Syracuse,NY,0.7828,37450,12,2459,15050,15050,"Suburb, Population >= 250,000",51481,1226
+2099,Long Island University,Brookville,NY,0.9265,38868,13,5751,16876,25000,"Suburb, Population >= 250,000",45151,1219
+2104,Manhattan College,Riverdale,NY,0.823,48658,11,3066,18440,18440,"City, Population Size >= 250,000",68472,1245
+2109,Marist College,Poughkeepsie,NY,0.6285,44560,16,5069,17150,18800,"Suburb, Population >= 250,000",59015,1288
+2110,Marymount Manhattan College,New York,NY,0.7209,38718,8,1568,19714,13200,"City, Population Size >= 250,000",36178,1205
+2111,Medaille University,Buffalo,NY,0.688,34000,15,1185,14000,10313,"City, Population Size >= 250,000",36957,1050
+2114,Mercy University,Dobbs Ferry,NY,0.8586,21358,15,5510,14200,9314,"Suburb, Population >= 250,000",40371,1124
+2122,Molloy College,Rockville Centre,NY,0.7663,36030,10,3207,17120,9436,"Suburb, Population >= 250,000",69985,1202
+2125,Mount Saint Mary College,Newburgh,NY,0.8829,37940,12,1466,17916,12912,"City, Population < 100,000",56772,1130
+2127,University of Mount Saint Vincent,Bronx,NY,0.8889,40980,14,2233,13500,13500,"City, Population Size >= 250,000",55264,1098
+2130,Nazareth University,Rochester,NY,0.8394,39310,8,1978,15190,15190,"Suburb, Population >= 250,000",46127,1240
+2138,New York University,New York,NY,0.1246,58168,8,29136,20272,20272,"City, Population Size >= 250,000",63932,1527
+2140,Niagara University,Niagara University,NY,0.8955,37180,11,2668,12700,9400,"Suburb, Population >= 250,000",43710,1143
+2144,New York Institute of Technology,Old Westbury,NY,0.7572,42000,13,3279,16600,17150,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",54041,1263
+2151,Pace University,New York,NY,0.8293,50026,14,7766,20480,24000,"City, Population Size >= 250,000",54152,1220
+2156,Pratt Institute-Main,Brooklyn,NY,0.5045,57599,9,3887,15408,21308,"City, Population Size >= 250,000",42375,1317
+2164,Roberts Wesleyan University,Rochester,NY,0.995,36124,13,1033,11792,9684,"Suburb, Population >= 250,000",47821,1294
+2165,Rochester Institute of Technology,Rochester,NY,0.6717,54518,13,13152,14978,14978,"Suburb, Population >= 250,000",61886,1370
+2172,St Bonaventure University,Saint Bonaventure,NY,0.8111,38770,11,1791,14450,14725,"Rural Town, Urban Cluster 35 miles away from an urban area",46165,1165
+2175,St Lawrence University,Canton,NY,0.635,62020,11,2130,15995,6750,"Rural Town, Urban Cluster 35 miles away from an urban area",47088,1333
+2176,The College of Saint Rose,Albany,NY,0.7801,36398,14,1420,14186,14186,"City, Population Size between 100,000 and 250,000",44981,1155
+2177,St. Thomas Aquinas College,Sparkill,NY,0.8861,36300,15,1016,15370,6000,"Suburb, Population >= 250,000",41028,1110
+2179,Sarah Lawrence College,Bronxville,NY,0.4988,61234,11,1417,16780,16358,"Suburb, Population >= 250,000",32157,1358
+2182,Siena College,Loudonville,NY,0.8035,41980,13,3480,16610,11082,"Suburb, Population >= 250,000",58586,1167
+2187,St. John Fisher University,Rochester,NY,0.7305,37748,12,2616,13666,13666,"Suburb, Population >= 250,000",53809,1184
+2189,St. John's University-New York,Queens,NY,0.8467,47830,16,10081,18790,13255,"City, Population Size >= 250,000",51172,1218
+2191,SUNY College of Technology at Alfred,Alfred,NY,0.8174,8862,16,3334,13620,10207,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",43071,1088
+2194,SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,0.8403,8676,14,1774,15310,15310,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37849,1041
+2195,Farmingdale State College,Farmingdale,NY,0.7317,8576,18,8915,14148,14193,"Suburb, Population >= 250,000",55094,1081
+2197,University at Albany,Albany,NY,0.679,10408,17,12175,15598,15430,"City, Population Size between 100,000 and 250,000",51029,1193
+2198,Binghamton University,Vestal,NY,0.4175,10363,19,14398,17506,17506,"Suburb, Population between 100,000 and 250,000",62589,1426
+2199,University at Buffalo,Buffalo,NY,0.6771,10782,12,20569,16212,14672,"Suburb, Population >= 250,000",53266,1288
+2200,Stony Brook University,Stony Brook,NY,0.4914,10560,19,17406,16408,16732,"Suburb, Population >= 250,000",57129,1410
+2203,SUNY Brockport,Brockport,NY,0.6794,8620,18,5107,15442,11566,"Fringe Town, Urban cluster that is 10 miles from an urban area",43805,1156
+2204,SUNY Buffalo State University,Buffalo,NY,0.8598,8486,13,5370,14386,14386,"City, Population Size >= 250,000",39620,1065
+2206,SUNY at Fredonia,Fredonia,NY,0.8458,8767,12,3193,14180,14180,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41453,1166
+2207,SUNY College at Geneseo,Geneseo,NY,0.7493,8966,16,4078,14166,13831,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",48467,1272
+2208,State University of New York at New Paltz,New Paltz,NY,0.5827,8524,16,5990,15024,15024,"Fringe Town, Urban cluster that is 10 miles from an urban area",45805,1254
+2209,SUNY Oneonta,Oneonta,NY,0.7253,8775,15,4849,15070,15070,"Rural Town, Urban Cluster 35 miles away from an urban area",48687,1184
+2210,State University of New York at Oswego,Oswego,NY,0.8256,8769,16,5957,15440,15440,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44760,1174
+2212,SUNY at Purchase College,Purchase,NY,0.7468,8953,11,3050,14948,14948,"Suburb, Population >= 250,000",36369,1281
+2214,SUNY Old Westbury,Old Westbury,NY,0.921,8368,16,3800,11530,25192,"Suburb, Population >= 250,000",47830,1110
+2215,SUNY College at Plattsburgh,Plattsburgh,NY,0.7024,8881,15,3925,15380,15380,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",46385,1160
+2218,SUNY Maritime College,Throggs Neck,NY,0.8033,8540,14,1291,15240,15240,"City, Population Size >= 250,000",78342,1211
+2221,Syracuse University,Syracuse,NY,0.5175,60135,15,15071,17170,17170,"City, Population Size between 100,000 and 250,000",61077,1359
+2227,Touro University,New York,NY,0.7131,21170,9,4005,7010,21900,"City, Population Size >= 250,000",41127,1343
+2231,Union College,Schenectady,NY,0.4651,63954,9,2077,15768,14268,"City, Population < 100,000",68831,1396
+2236,Utica University,Utica,NY,0.809,24308,11,2526,12667,12500,"City, Population < 100,000",55348,1192
+2237,Vassar College,Poughkeepsie,NY,0.1866,64800,7,2430,16560,17060,"Suburb, Population >= 250,000",45562,1487
+2239,School of Visual Arts,New York,NY,0.8741,46800,8,3518,23200,23200,"City, Population Size >= 250,000",33143,1298
+2240,Wagner College,Staten Island,NY,0.6854,51260,14,1638,15280,15280,"City, Population Size >= 250,000",59782,1202
+2251,Yeshiva University,New York,NY,0.6322,48800,7,2820,13850,13283,"City, Population Size >= 250,000",58983,1405
+2256,Appalachian State University,Boone,NC,0.8308,7450,16,18467,11582,12110,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41309,1187
+2260,Belmont Abbey College,Belmont,NC,0.9717,18500,12,1413,11658,8000,"Suburb, Population between 100,000 and 250,000",39782,1068
+2264,Brevard College,Brevard,NC,0.3989,30250,10,731,12400,7750,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",34299,1077
+2271,Catawba College,Salisbury,NC,0.6708,32868,11,1076,11576,9048,"Suburb, Population >= 250,000",37854,1124
+2275,Chowan University,Murfreesboro,NC,0.8668,25880,16,800,9650,9650,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",30303,1052
+2285,Elizabeth City State University,Elizabeth City,NC,0.7415,3356,16,1912,8727,7710,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",30939,1003
+2286,Elon University,Elon,NC,0.7446,42241,11,6337,13886,13886,"Suburb, Population between 100,000 and 250,000",54056,1278
+2288,Fayetteville State University,Fayetteville,NC,0.8124,3906,18,5218,9440,9066,"City, Population Size between 100,000 and 250,000",33500,915
+2290,Gardner-Webb University,Boiling Springs,NC,0.7495,32200,11,1811,10770,5700,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",40409,1114
+2293,Guilford College,Greensboro,NC,0.8351,41140,12,1022,12900,12900,"City, Population Size >= 250,000",37766,1079
+2298,High Point University,High Point,NC,0.7888,41916,17,4965,16524,12000,"City, Population Size between 100,000 and 250,000",49281,1220
+2307,Livingstone College,Salisbury,NC,0.6377,18296,13,839,6794,3262,"Suburb, Population >= 250,000",25387,887
+2313,Meredith College,Raleigh,NC,0.7318,42540,10,1294,12544,12544,"City, Population Size >= 250,000",42030,1220
+2314,Methodist University,Fayetteville,NC,0.7568,38138,9,1442,12828,9000,"City, Population Size between 100,000 and 250,000",37358,1183
+2323,North Carolina A & T State University,Greensboro,NC,0.5639,6733,19,11553,9179,10708,"City, Population Size >= 250,000",34936,1050
+2324,University of North Carolina Asheville,Asheville,NC,0.7431,7380,12,2803,10556,10556,"City, Population < 100,000",35474,1210
+2325,University of North Carolina at Chapel Hill,Chapel Hill,NC,0.1711,8989,17,19921,12254,12254,"City, Population < 100,000",52831,1449
+2326,University of North Carolina at Charlotte,Charlotte,NC,0.7964,7214,20,23063,12896,12858,"City, Population Size >= 250,000",44858,1162
+2327,University of North Carolina at Greensboro,Greensboro,NC,0.9194,7498,17,13862,9924,9924,"City, Population Size >= 250,000",38795,1190
+2328,North Carolina Central University,Durham,NC,0.8438,6599,14,5101,11864,11864,"City, Population Size >= 250,000",33054,976
+2329,University of North Carolina School of the Arts,Winston Salem,NC,0.3178,9388,6,915,12902,12902,"City, Population Size >= 250,000",30390,1256
+2330,North Carolina State University at Raleigh,Raleigh,NC,0.4717,9128,16,25109,12748,12748,"City, Population Size >= 250,000",54811,1370
+2332,University of North Carolina Wilmington,Wilmington,NC,0.6883,7238,17,13960,12120,12120,"City, Population Size between 100,000 and 250,000",44324,1266
+2334,William Peace University,Raleigh,NC,0.6318,33050,11,640,12040,9012,"City, Population Size >= 250,000",35641,1133
+2336,Pfeiffer University,Misenheimer,NC,0.6905,33290,14,683,12520,12520,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",40783,1050
+2339,Queens University of Charlotte,Charlotte,NC,0.7127,40830,9,1301,14026,15368,"City, Population Size >= 250,000",43145,1193
+2364,Warren Wilson College,Swannanoa,NC,0.8398,38450,8,697,12050,10800,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",27395,1320
+2370,Wingate University,Wingate,NC,0.8615,40806,15,2509,10444,13430,"Suburb, Population >= 250,000",41480,1084
+2373,Winston-Salem State University,Winston-Salem,NC,0.7339,6276,15,4449,11220,10057,"City, Population Size >= 250,000",37148,921
+2374,Western Carolina University,Cullowhee,NC,0.8484,4453,16,9809,11173,12065,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39995,1127
+2377,Dickinson State University,Dickinson,ND,0.7202,9118,13,1148,7740,7740,"Rural Town, Urban Cluster 35 miles away from an urban area",43987,1018
+2383,University of Mary,Bismarck,ND,0.8139,21062,14,2149,8220,11806,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",47666,1195
+2385,Minot State University,Minot,ND,0.9317,8508,10,2168,7180,7168,"City, Population < 100,000",43516,1025
+2389,North Dakota State University-Main Campus,Fargo,ND,0.9568,10992,17,9795,9300,9300,"City, Population Size between 100,000 and 250,000",51147,1120
+2392,Trinity Bible College and Graduate School,Ellendale,ND,0.4444,18216,11,162,6758,8300,"Remote Rural, More than 25 miles from an urban area and more than 10 miles from an Urban Cluster",28803,1050
+2395,Valley City State University,Valley City,ND,0.8345,8458,12,914,6957,6957,"Rural Town, Urban Cluster 35 miles away from an urban area",43155,1022
+2399,University of Akron Main Campus,Akron,OH,0.8287,12427,16,10099,12410,11490,"City, Population Size between 100,000 and 250,000",37152,1114
+2405,Ashland University,Ashland,OH,0.7176,24140,11,2332,11440,5500,"Fringe Town, Urban cluster that is 10 miles from an urban area",43348,1151
+2410,Baldwin Wallace University,Berea,OH,0.7704,36850,9,2708,12796,11264,"Suburb, Population >= 250,000",42124,1161
+2412,Bluffton University,Bluffton,OH,0.9629,35516,11,649,11602,8140,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",40286,980
+2414,Bowling Green State University-Main Campus,Bowling Green,OH,0.7866,13639,17,12223,12584,8614,"Fringe Town, Urban cluster that is 10 miles from an urban area",39486,1116
+2419,Capital University,Columbus,OH,0.7215,40350,9,1905,12308,11652,"Suburb, Population >= 250,000",43290,1092
+2420,Case Western Reserve University,Cleveland,OH,0.2741,61584,9,5927,17220,10048,"City, Population Size >= 250,000",70442,1487
+2421,Cedarville University,Cedarville,OH,0.6488,34698,16,3851,8400,8400,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",46118,1250
+2429,University of Cincinnati-Main Campus,Cincinnati,OH,0.8622,13176,18,27880,12852,12852,"City, Population Size >= 250,000",44934,1252
+2435,Cleveland Institute of Art,Cleveland,OH,0.6984,46460,8,575,12230,12230,"City, Population Size >= 250,000",30182,1190
+2437,Cleveland State University,Cleveland,OH,0.8532,12254,16,9502,14197,15090,"City, Population Size >= 250,000",42284,1020
+2444,University of Dayton,Dayton,OH,0.7405,46170,15,8349,15390,15390,"City, Population Size between 100,000 and 250,000",61442,1284
+2445,Defiance College,Defiance,OH,0.6286,35328,10,478,10940,10940,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37337,1020
+2446,Denison University,Granville,OH,0.2196,60000,9,2406,14400,14400,"Suburb, Population < 100,000",49317,1389
+2465,John Carroll University,University Heights,OH,0.8237,47290,14,2358,13200,8500,"Suburb, Population >= 250,000",54806,1264
+2474,Kent State University at Kent,Kent,OH,0.8802,12464,19,19179,12676,8882,"Suburb, Population >= 250,000",37188,1093
+2477,Kettering College,Kettering,OH,0.3441,14664,8,572,8538,15424,"City, Population < 100,000",57446,1050
+2478,Lake Erie College,Painesville,OH,0.541,35024,11,662,10842,15180,"Suburb, Population >= 250,000",38736,1129
+2486,Malone University,Canton,OH,0.7756,34875,11,818,10800,10000,"City, Population < 100,000",40622,1091
+2487,Marietta College,Marietta,OH,0.8285,38022,9,1064,11946,4273,"Fringe Town, Urban cluster that is 10 miles from an urban area",45560,1075
+2494,Miami University-Oxford,Oxford,OH,0.8792,17264,15,16721,15824,15824,"Fringe Town, Urban cluster that is 10 miles from an urban area",45215,1312
+2498,University of Mount Union,Alliance,OH,0.7575,33800,12,1867,11200,7650,"Fringe Town, Urban cluster that is 10 miles from an urban area",45726,1107
+2499,Mount Vernon Nazarene University,Mount Vernon,OH,0.8533,34168,11,1481,9612,4650,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39891,1119
+2500,Mount St. Joseph University,Cincinnati,OH,0.5435,34900,10,1045,10650,9000,"Suburb, Population >= 250,000",41142,1183
+2502,Muskingum University,New Concord,OH,0.8639,30690,13,1436,12500,12500,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",38099,1024
+2511,Oberlin College,Oberlin,OH,0.3487,62024,9,2986,18390,12270,"Fringe Town, Urban cluster that is 10 miles from an urban area",35126,1446
+2513,Ohio Dominican University,Columbus,OH,0.5242,33350,13,795,11850,6800,"City, Population Size >= 250,000",41542,1220
+2514,Ohio Northern University,Ada,OH,0.5437,36730,13,2402,12900,9342,"Fringe Town, Urban cluster that is 10 miles from an urban area",61102,1282
+2524,Ohio State University-Main Campus,Columbus,OH,0.5272,12485,17,45140,14006,11952,"City, Population Size >= 250,000",47999,1386
+2529,Ohio University-Main Campus,Athens,OH,0.8652,13352,18,17611,12336,12336,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43819,1188
+2533,Ohio Wesleyan University,Delaware,OH,0.5218,49822,11,1401,13745,7000,"Suburb, Population >= 250,000",42255,1239
+2534,Otterbein University,Westerville,OH,0.8368,34274,12,2097,11988,8294,"Suburb, Population >= 250,000",44680,1146
+2552,Franciscan University of Steubenville,Steubenville,OH,0.6665,31080,16,2605,9390,5800,"City, Population < 100,000",41555,1214
+2557,University of Toledo,Toledo,OH,0.9223,12020,17,10787,14148,7780,"City, Population Size >= 250,000",40268,1199
+2564,Ursuline College,Pepper Pike,OH,0.8508,36816,7,618,12042,7000,"Suburb, Population >= 250,000",50414,1087
+2566,Walsh University,North Canton,OH,0.7251,33235,14,1454,11700,9279,"Suburb, Population >= 250,000",46578,1186
+2568,Wilberforce University,Wilberforce,OH,0.4512,13250,19,639,7000,6650,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",27590,910
+2569,Wilmington College,Wilmington,OH,0.8813,29490,13,1011,10800,2650,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40304,976
+2571,Wittenberg University,Springfield,OH,0.9393,43106,10,1235,11280,11280,"City, Population < 100,000",44111,1216
+2572,The College of Wooster,Wooster,OH,0.5627,57500,11,1960,13500,3500,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40994,1364
+2573,Wright State University-Main Campus,Dayton,OH,0.9522,10864,14,6327,10686,10686,"Suburb, Population >= 250,000",39585,1050
+2574,Wright State University-Lake Campus,Celina,OH,0.9985,7286,13,984,11500,11500,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",39585,1090
+2575,Xavier University,Cincinnati,OH,0.8454,45000,11,4837,13820,13820,"City, Population Size >= 250,000",51259,1238
+2576,Youngstown State University,Youngstown,OH,0.806,10478,18,7741,10016,10016,"City, Population < 100,000",33946,1082
+2578,Oklahoma Wesleyan University,Bartlesville,OK,0.5213,30262,15,722,9118,9118,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",47383,1023
+2584,University of Central Oklahoma,Edmond,OK,0.6994,8234,16,10400,8628,12198,"Suburb, Population >= 250,000",39756,1090
+2586,East Central University,Ada,OK,0.7008,7405,17,2584,7752,10144,"Rural Town, Urban Cluster 35 miles away from an urban area",37836,1050
+2591,Randall University,Moore,OK,0.4286,16742,9,242,7430,10169,"Suburb, Population >= 250,000",33589,998
+2595,Northeastern State University,Tahlequah,OK,0.9946,7400,17,4885,8292,8140,"Rural Town, Urban Cluster 35 miles away from an urban area",38825,1046
+2598,Northwestern Oklahoma State University,Alva,OK,0.5642,5970,16,1430,5220,5220,"Rural Town, Urban Cluster 35 miles away from an urban area",38628,974
+2600,Oklahoma Christian University,Edmond,OK,0.9602,25148,15,1856,8280,8280,"City, Population Size >= 250,000",41963,1147
+2603,Oklahoma State University-Main Campus,Stillwater,OK,0.7063,10234,18,20362,9800,9800,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",46108,1145
+2605,Oklahoma Baptist University,Shawnee,OK,0.4734,32880,15,1246,8248,8248,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39187,1054
+2607,Oklahoma City University,Oklahoma City,OK,0.7039,32744,9,1344,9486,9486,"City, Population Size >= 250,000",42193,1150
+2608,University of Oklahoma-Norman Campus,Norman,OK,0.7292,9312,16,20842,15780,15780,"Suburb, Population between 100,000 and 250,000",49847,1240
+2610,Oral Roberts University,Tulsa,OK,0.7837,32640,17,3250,9050,13200,"City, Population Size >= 250,000",38002,1112
+2614,University of Science and Arts of Oklahoma,Chickasha,OK,0.563,9000,16,808,7000,7410,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",33903,1086
+2617,Southeastern Oklahoma State University,Durant,OK,0.7421,7020,22,2853,7250,7002,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37348,1078
+2619,Southwestern Oklahoma State University,Weatherford,OK,0.7678,8130,18,3596,6930,6312,"Rural Town, Urban Cluster 35 miles away from an urban area",40314,1050
+2622,University of Tulsa,Tulsa,OK,0.6918,47211,10,2612,11426,12323,"City, Population Size >= 250,000",48089,1239
+2637,George Fox University,Newberg,OR,0.9173,39540,15,2495,13050,13050,"Fringe Town, Urban cluster that is 10 miles from an urban area",46182,1195
+2640,Lewis & Clark College,Portland,OR,0.6859,59684,13,2187,14384,14384,"City, Population Size >= 250,000",43097,1366
+2648,Multnomah University,Portland,OR,0.5338,28810,12,375,9920,8580,"City, Population Size >= 250,000",37174,1155
+2652,Oregon Institute of Technology,Klamath Falls,OR,0.9258,12122,15,3088,10921,13423,"Rural Town, Urban Cluster 35 miles away from an urban area",63472,1177
+2654,University of Oregon,Eugene,OR,0.8629,15054,20,19443,14640,11256,"City, Population Size between 100,000 and 250,000",45896,1271
+2656,Pacific University,Forest Grove,OR,0.9228,52072,9,1546,14408,9806,"Suburb, Population >= 250,000",46276,1150
+2664,University of Portland,Portland,OR,0.9251,51812,9,3368,17172,13448,"City, Population Size >= 250,000",67623,1326
+2665,Reed College,Portland,OR,0.308,64760,9,1494,15950,12150,"City, Population Size >= 250,000",41026,1421
+2675,Western Oregon University,Monmouth,OR,0.8335,10602,13,3292,10923,10854,"Fringe Town, Urban cluster that is 10 miles from an urban area",39549,1050
+2677,Bryn Athyn College of the New Church,Bryn Athyn,PA,0.7997,27000,8,271,13449,7000,"Suburb, Population >= 250,000",37289,1118
+2682,Allegheny College,Meadville,PA,0.6965,53610,8,1324,13796,11296,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",47063,1269
+2684,DeSales University,Center Valley,PA,0.7717,42600,11,2175,13500,11576,"Suburb, Population >= 250,000",52248,1204
+2686,Alvernia University,Reading,PA,0.59,40750,12,2000,14030,5100,"City, Population < 100,000",46100,1075
+2692,Arcadia University,Glenside,PA,0.7757,47130,12,1750,13720,21400,"Suburb, Population >= 250,000",45490,1212
+2695,Bucknell University,Lewisburg,PA,0.3255,61746,9,3732,15358,15358,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",76427,1405
+2700,Cabrini University,Radnor,PA,0.7852,34665,13,1145,13224,10000,"Suburb, Population >= 250,000",45318,1120
+2701,Carlow University,Pittsburgh,PA,0.927,33500,10,1243,13014,13014,"City, Population Size >= 250,000",42322,950
+2702,Carnegie Mellon University,Pittsburgh,PA,0.113,61344,5,7005,16486,14986,"City, Population Size >= 250,000",92854,1546
+2703,Cedar Crest College,Allentown,PA,0.8425,43643,9,933,12722,12722,"City, Population Size between 100,000 and 250,000",47266,1075
+2705,Chatham University,Pittsburgh,PA,0.6633,42125,10,1207,12719,12719,"City, Population Size >= 250,000",41234,1175
+2712,Delaware Valley University,Doylestown,PA,0.9543,42120,13,1631,14850,14850,"Suburb, Population >= 250,000",41364,1117
+2715,Drexel University,Philadelphia,PA,0.7961,58965,9,13933,16980,17625,"City, Population Size >= 250,000",69511,1333
+2716,Duquesne University,Pittsburgh,PA,0.8749,45376,12,5087,14744,14744,"City, Population Size >= 250,000",60449,1257
+2717,East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,0.9363,10987,20,4324,11400,8700,"Fringe Town, Urban cluster that is 10 miles from an urban area",43234,1069
+2719,Elizabethtown College,Elizabethtown,PA,0.8112,35670,13,1703,12642,8001,"Suburb, Population >= 250,000",52811,1191
+2731,Franklin and Marshall College,Lancaster,PA,0.3623,65844,9,1986,15040,15040,"City, Population < 100,000",55963,1386
+2734,Gettysburg College,Gettysburg,PA,0.5631,61760,10,2236,14930,14930,"Fringe Town, Urban cluster that is 10 miles from an urban area",59372,1372
+2738,Gwynedd Mercy University,Gwynedd Valley,PA,0.5842,37052,8,1217,13056,10152,"Suburb, Population >= 250,000",58861,1110
+2741,Haverford College,Haverford,PA,0.1421,63628,8,1417,17982,17982,"Suburb, Population >= 250,000",56106,1506
+2743,Holy Family University,Philadelphia,PA,0.7744,32558,13,2124,14500,10636,"City, Population Size >= 250,000",53142,940
+2745,Immaculata University,Immaculata,PA,0.6974,27750,10,1248,12620,12620,"Suburb, Population >= 250,000",56491,1180
+2746,Indiana University of Pennsylvania-Main Campus,Indiana,PA,0.9194,11320,21,6611,12542,12542,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41806,1061
+2750,Juniata College,Huntingdon,PA,0.7616,54336,10,1116,13050,13050,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",45952,1244
+2751,Keystone College,La Plume,PA,0.8066,17450,14,1009,11900,5200,"Suburb, Population >= 250,000",32407,1030
+2752,King's College,Wilkes-Barre,PA,0.9599,41600,11,1595,14648,10000,"City, Population < 100,000",47609,1162
+2754,Kutztown University of Pennsylvania,Kutztown,PA,0.9614,11230,20,6334,12156,12156,"Fringe Town, Urban cluster that is 10 miles from an urban area",43067,1140
+2755,La Roche University,Pittsburgh,PA,0.9736,32284,12,794,12886,8205,"Suburb, Population >= 250,000",41480,1094
+2756,La Salle University,Philadelphia,PA,0.9425,33890,12,2275,14550,7500,"City, Population Size >= 250,000",53623,1140
+2759,Lancaster Bible College,Lancaster,PA,0.9715,28460,16,1286,11190,7000,"Suburb, Population >= 250,000",36239,1121
+2764,Lebanon Valley College,Annville,PA,0.7674,48620,11,1618,13220,13220,"Suburb, Population < 100,000",50424,1201
+2767,Lehigh University,Bethlehem,PA,0.3698,59930,10,5612,15890,15890,"City, Population < 100,000",86106,1418
+2770,Lincoln University,Lincoln University,PA,0.8061,11910,13,1704,10530,10530,"Suburb, Population >= 250,000",34873,952
+2774,Lycoming College,Williamsport,PA,0.7522,45499,11,1046,14186,13874,"City, Population < 100,000",42890,1150
+2776,Marywood University,Scranton,PA,0.8076,38226,11,1793,14696,13000,"City, Population < 100,000",44421,1113
+2780,Messiah University,Mechanicsburg,PA,0.7941,39490,13,2327,11560,11560,"Suburb, Population >= 250,000",45519,1229
+2782,Millersville University of Pennsylvania,Millersville,PA,0.9242,12262,18,5697,13750,13660,"Suburb, Population >= 250,000",43260,1150
+2785,Moore College of Art and Design,Philadelphia,PA,0.5318,47990,7,355,18034,15738,"City, Population Size >= 250,000",33018,1180
+2786,Moravian University,Bethlehem,PA,0.6702,50500,10,1864,14904,7250,"City, Population < 100,000",48722,1149
+2787,Mount Aloysius College,Cresson,PA,0.8595,25510,11,1097,11808,10000,"Fringe Town, Urban cluster that is 10 miles from an urban area",39697,1030
+2788,Muhlenberg College,Allentown,PA,0.6551,58205,8,1933,13440,13440,"City, Population Size between 100,000 and 250,000",53457,1332
+2796,Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,0.9544,15904,12,3149,12984,12984,"Suburb, Population between 100,000 and 250,000",52102,1207
+2803,Pennsylvania State University-Penn State Altoona,Altoona,PA,0.9576,15904,12,2565,12984,12984,"City, Population < 100,000",52102,1163
+2804,Pennsylvania State University-Penn State Beaver,Monaca,PA,0.932,14218,11,503,12254,12984,"Suburb, Population >= 250,000",52102,1164
+2805,Pennsylvania State University-Penn State Berks,Reading,PA,0.9729,15904,13,2024,14334,12984,"Suburb, Population >= 250,000",52102,1193
+2806,Pennsylvania State University-Penn State Harrisburg,Middletown,PA,0.9555,15904,14,4053,14978,12984,"Suburb, Population >= 250,000",52102,1213
+2807,Pennsylvania State University-Penn State Brandywine,Media,PA,0.9619,15140,13,1189,13930,12984,"Suburb, Population >= 250,000",52102,1179
+2810,Pennsylvania State University-Penn State Hazleton,Hazleton,PA,0.8991,15140,9,470,12254,12984,"Suburb, Population < 100,000",52102,1145
+2811,Pennsylvania State University-Main Campus,University Park,PA,0.5521,19835,15,41417,12984,12984,"City, Population < 100,000",52102,1308
+2812,Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,0.8765,14340,8,356,12254,12984,"Suburb, Population >= 250,000",52102,1130
+2813,Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,0.913,14340,10,626,12254,12984,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",52102,1130
+2814,Pennsylvania State University-Penn State Abington,Abington,PA,0.9341,15200,15,3072,10694,12984,"Suburb, Population >= 250,000",52102,1188
+2815,Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,0.8578,15140,12,593,7644,12984,"Fringe Town, Urban cluster that is 10 miles from an urban area",52102,1070
+2824,University of Pennsylvania,Philadelphia,PA,0.065,63452,8,10572,17888,15284,"City, Population Size >= 250,000",90173,1546
+2829,University of Pittsburgh-Bradford,Bradford,PA,0.9355,14620,13,1051,10332,10934,"Rural Town, Urban Cluster 35 miles away from an urban area",51812,1071
+2830,University of Pittsburgh-Greensburg,Greensburg,PA,0.976,14630,16,1323,11820,10934,"Suburb, Population >= 250,000",51812,1158
+2831,University of Pittsburgh-Johnstown,Johnstown,PA,0.9741,14646,15,2039,11480,10934,"Suburb, Population < 100,000",51812,1153
+2832,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,0.4914,21080,13,19954,12360,12268,"City, Population Size >= 250,000",51812,1380
+2839,Point Park University,Pittsburgh,PA,0.8205,36620,11,2410,12240,3150,"City, Population Size >= 250,000",38294,1150
+2843,Reading Hospital School of Health Sciences,Reading,PA,0.129,11445,7,259,9604,10347,"City, Population < 100,000",63084,970
+2849,Saint Francis University,Loretto,PA,0.7305,40520,15,1639,13452,13452,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",53986,1142
+2850,Saint Joseph's University,Philadelphia,PA,0.8868,49610,10,4978,15285,15285,"City, Population Size >= 250,000",63052,1242
+2851,Saint Vincent College,Latrobe,PA,0.7337,39903,11,1335,13526,13526,"Suburb, Population >= 250,000",46165,1152
+2854,University of Scranton,Scranton,PA,0.8435,50312,12,3515,16490,10200,"City, Population < 100,000",62190,1237
+2855,Seton Hill University,Greensburg,PA,0.7834,40224,13,1615,13350,10398,"Suburb, Population >= 250,000",41115,1160
+2859,Shippensburg University of Pennsylvania,Shippensburg,PA,0.878,13544,17,4283,11538,10228,"Fringe Town, Urban cluster that is 10 miles from an urban area",44049,1090
+2860,Slippery Rock University of Pennsylvania,Slippery Rock,PA,0.7433,10507,19,6707,10268,9690,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43036,1060
+2866,Susquehanna University,Selinsgrove,PA,0.7669,55160,13,2139,14960,14960,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",47651,1195
+2868,Thaddeus Stevens College of Technology,Lancaster,PA,0.9109,8450,16,1310,9670,9670,"City, Population < 100,000",41852,1110
+2873,Thomas Jefferson University,Philadelphia,PA,0.8885,44350,13,3739,14715,14715,"City, Population Size >= 250,000",58562,1244
+2878,Ursinus College,Collegeville,PA,0.8221,58016,10,1505,14624,14624,"Suburb, Population >= 250,000",47326,1293
+2882,Villanova University,Villanova,PA,0.2339,61618,10,6926,16087,16087,"Suburb, Population >= 250,000",81607,1454
+2884,Washington & Jefferson College,Washington,PA,0.8808,50192,10,1139,13524,13524,"Suburb, Population >= 250,000",55419,1145
+2885,Waynesburg University,Waynesburg,PA,0.7557,28490,12,1066,12120,8820,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",46578,1120
+2887,West Chester University of Pennsylvania,West Chester,PA,0.8785,10575,20,14014,14228,14228,"Suburb, Population >= 250,000",50063,1165
+2892,Widener University,Chester,PA,0.8769,51639,11,2513,15200,8280,"Suburb, Population >= 250,000",57497,1212
+2893,Wilkes University,Wilkes-Barre,PA,0.9414,41112,13,1904,15850,9500,"City, Population < 100,000",56243,1159
+2895,Wilson College,Chambersburg,PA,0.9405,26200,13,635,11968,7100,"City, Population < 100,000",35337,1060
+2897,York College of Pennsylvania,York,PA,0.9561,23328,13,3219,12430,12430,"Suburb, Population between 100,000 and 250,000",49538,1122
+2900,Bryant University,Smithfield,RI,0.6881,49329,13,3193,16534,10000,"Suburb, Population >= 250,000",72461,1256
+2901,Johnson & Wales University-Providence,Providence,RI,0.8343,38492,14,4135,18760,10250,"City, Population Size between 100,000 and 250,000",36348,1094
+2902,New England Institute of Technology,East Greenwich,RI,0.7448,33900,12,1720,16800,7278,"Suburb, Population >= 250,000",47402,1040
+2904,Providence College,Providence,RI,0.5278,57928,11,3959,16540,14600,"City, Population Size between 100,000 and 250,000",62560,1334
+2905,Rhode Island College,Providence,RI,0.8753,10966,11,4596,13414,14688,"Suburb, Population >= 250,000",41889,990
+2907,University of Rhode Island,Kingston,RI,0.7639,15880,17,13828,13584,11386,"Suburb, Population >= 250,000",56306,1178
+2908,Rhode Island School of Design,Providence,RI,0.1742,57505,9,2108,15234,15234,"City, Population Size between 100,000 and 250,000",49482,1433
+2909,Roger Williams University,Bristol,RI,0.9099,40962,14,3971,16294,12730,"Suburb, Population >= 250,000",53795,1215
+2910,Salve Regina University,Newport,RI,0.6953,46000,13,2174,16500,11870,"Suburb, Population >= 250,000",50726,1216
+2916,Charleston Southern University,Charleston,SC,0.8675,29990,12,2771,11250,8670,"City, Population Size between 100,000 and 250,000",38119,1072
+2918,Benedict College,Columbia,SC,0.6778,17200,17,1726,6600,6600,"City, Population Size between 100,000 and 250,000",23852,900
+2920,Southern Wesleyan University,Central,SC,0.5118,27820,12,798,9650,6000,"Suburb, Population between 100,000 and 250,000",37938,1090
+2922,College of Charleston,Charleston,SC,0.7569,12978,16,9667,12986,12571,"City, Population Size between 100,000 and 250,000",41508,1239
+2925,Citadel Military College of South Carolina,Charleston,SC,0.9858,12570,11,2658,8480,19836,"City, Population Size between 100,000 and 250,000",56479,1178
+2927,Clemson University,Clemson,SC,0.4298,15558,16,22467,12350,12350,"Suburb, Population between 100,000 and 250,000",56107,1341
+2930,Columbia International University,Columbia,SC,0.4822,26840,13,775,9950,9020,"City, Population Size between 100,000 and 250,000",33774,1074
+2931,Columbia College,Columbia,SC,0.9812,22050,11,1136,8400,11980,"City, Population Size between 100,000 and 250,000",35389,972
+2932,Converse University,Spartanburg,SC,0.5557,21410,9,804,12664,12664,"City, Population < 100,000",32076,1143
+2934,Erskine College,Due West,SC,0.5325,36710,15,817,12450,13000,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",37782,1053
+2936,Francis Marion University,Florence,SC,0.8291,11160,13,2684,8230,8230,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",33385,993
+2937,Furman University,Greenville,SC,0.6702,55772,9,2278,15148,15148,"Suburb, Population >= 250,000",47832,1361
+2942,Lander University,Greenwood,SC,0.674,11700,16,3360,10700,10700,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",34764,1076
+2947,Newberry College,Newberry,SC,0.7531,29100,14,1292,12000,10346,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",36322,1001
+2951,Presbyterian College,Clinton,SC,0.5939,41900,11,877,11300,12100,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43373,1156
+2952,University of South Carolina Aiken,Aiken,SC,0.7562,10760,15,2817,8376,9916,"Suburb, Population >= 250,000",38000,1080
+2954,University of South Carolina-Columbia,Columbia,SC,0.6405,12688,18,26840,11780,11239,"City, Population Size between 100,000 and 250,000",48846,1304
+2959,Coastal Carolina University,Conway,SC,0.7863,11640,16,9495,10628,9528,"City, Population < 100,000",37351,1105
+2961,University of South Carolina-Upstate,Spartanburg,SC,0.7858,11583,15,4046,9520,10800,"Suburb, Population between 100,000 and 250,000",40004,1078
+2970,Winthrop University,Rock Hill,SC,0.6976,15866,12,3376,10488,10332,"City, Population < 100,000",37039,1106
+2971,Wofford College,Spartanburg,SC,0.6018,51530,11,1823,14920,7677,"City, Population < 100,000",53445,1300
+2973,Augustana University,Sioux Falls,SD,0.6579,37342,12,1759,9148,10400,"City, Population Size between 100,000 and 250,000",47691,1191
+2975,Black Hills State University,Spearfish,SD,0.9664,9000,18,1933,7528,7528,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",36714,1085
+2976,Dakota State University,Madison,SD,0.7891,9633,18,1894,8018,7833,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",41645,1141
+2977,Dakota Wesleyan University,Mitchell,SD,0.7477,31890,12,632,7450,9000,"Rural Town, Urban Cluster 35 miles away from an urban area",44411,1050
+2982,Mount Marty University,Yankton,SD,0.6839,31500,13,693,8850,8850,"Rural Town, Urban Cluster 35 miles away from an urban area",43706,1050
+2985,Northern State University,Aberdeen,SD,0.7814,8845,16,1258,9150,9150,"Rural Town, Urban Cluster 35 miles away from an urban area",38239,1087
+2987,Presentation College,Aberdeen,SD,0.7558,22764,11,586,10842,10501,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",51793,998
+2989,South Dakota School of Mines and Technology,Rapid City,SD,0.8269,10440,12,2047,8020,10680,"City, Population < 100,000",60005,1252
+2990,South Dakota State University,Brookings,SD,0.8608,9299,18,8627,8087,9657,"Rural Town, Urban Cluster 35 miles away from an urban area",46330,1121
+2997,University of South Dakota,Vermillion,SD,0.9946,9432,14,5265,8224,9299,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44504,1122
+3002,Austin Peay State University,Clarksville,TN,0.9382,8431,14,7054,12274,12626,"City, Population Size between 100,000 and 250,000",36253,1089
+3003,Baptist Health Sciences University,Memphis,TN,0.4093,13078,7,777,3928,7385,"City, Population Size >= 250,000",56941,1120
+3004,Belmont University,Nashville,TN,0.9627,39850,12,7349,13670,15210,"City, Population Size >= 250,000",44400,1269
+3005,Bethel University,McKenzie,TN,0.8879,17482,17,2906,13446,13446,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37590,1021
+3007,Carson-Newman University,Jefferson City,TN,0.7978,33000,10,1426,10097,7664,"Suburb, Population < 100,000",38290,1112
+3009,Christian Brothers University,Memphis,TN,0.8746,35520,9,1032,10220,11700,"City, Population Size >= 250,000",40100,1150
+3017,Lipscomb University,Nashville,TN,0.7112,37152,13,2950,14036,12000,"City, Population Size >= 250,000",46097,1275
+3021,East Tennessee State University,Johnson City,TN,0.8526,9674,16,9772,9613,12411,"City, Population < 100,000",35345,1114
+3025,Fisk University,Nashville,TN,0.7097,23578,12,1009,11500,11500,"City, Population Size >= 250,000",29620,1200
+3027,Freed-Hardeman University,Henderson,TN,0.9119,24300,13,1384,7950,4500,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",36758,1147
+3034,Johnson University,Knoxville,TN,0.6321,19274,10,668,8664,10468,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",32147,1084
+3040,Lee University,Cleveland,TN,0.7259,21730,12,2932,8840,8840,"City, Population < 100,000",35687,1174
+3041,Lincoln Memorial University,Harrogate,TN,0.7848,25180,8,1461,11070,5000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43038,1060
+3043,The University of Tennessee Southern,Pulaski,TN,0.8026,10200,12,787,8600,8700,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",34555,1091
+3044,Maryville College,Maryville,TN,0.695,37758,12,977,12616,12616,"Suburb, Population >= 250,000",37199,1143
+3049,University of Memphis,Memphis,TN,0.946,10056,17,14181,10126,11732,"City, Population Size >= 250,000",37875,1090
+3051,Middle Tennessee State University,Murfreesboro,TN,0.7254,9232,16,16239,9576,9576,"City, Population Size between 100,000 and 250,000",38300,1120
+3061,Rhodes College,Memphis,TN,0.5391,52310,9,1966,12296,12296,"City, Population Size >= 250,000",55957,1385
+3067,The University of the South,Sewanee,TN,0.5232,51146,10,1599,14608,14608,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",46075,1357
+3074,Southern Adventist University,Collegedale,TN,0.6578,23870,15,2439,8330,9000,"Suburb, Population >= 250,000",39960,1120
+3076,Tennessee Wesleyan University,Athens,TN,0.6074,27350,10,906,8600,8000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39702,1086
+3077,The University of Tennessee-Chattanooga,Chattanooga,TN,0.8265,9848,16,9820,9500,9500,"City, Population Size between 100,000 and 250,000",39937,1147
+3078,The University of Tennessee-Knoxville,Knoxville,TN,0.6841,13244,18,26905,12150,12150,"City, Population Size between 100,000 and 250,000",46273,1299
+3079,The University of Tennessee-Martin,Martin,TN,0.8844,9912,15,4629,7082,9184,"Rural Town, Urban Cluster 35 miles away from an urban area",35258,1121
+3082,Tennessee Technological University,Cookeville,TN,0.781,9802,18,8341,10502,10502,"Rural Town, Urban Cluster 35 miles away from an urban area",40421,1190
+3083,Trevecca Nazarene University,Nashville,TN,0.7087,28200,22,1738,9900,12512,"City, Population Size >= 250,000",41237,1101
+3085,Tusculum University,Greeneville,TN,0.8108,27208,16,981,10042,9600,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",37043,1044
+3086,Union University,Jackson,TN,0.5255,36880,8,1731,10740,12150,"City, Population < 100,000",43332,1281
+3091,Abilene Christian University,Abilene,TX,0.6579,40500,13,3141,11500,11500,"City, Population Size between 100,000 and 250,000",45389,1172
+3096,Angelo State University,San Angelo,TX,0.7914,8186,18,5314,10520,10520,"City, Population < 100,000",39229,1038
+3100,Austin College,Sherman,TX,0.5437,44950,11,1166,12958,9250,"City, Population < 100,000",44949,1243
+3107,Baylor University,Waco,TX,0.4588,51738,15,15134,13587,13232,"City, Population Size between 100,000 and 250,000",52420,1347
+3117,Concordia University Texas,Austin,TX,0.8574,35620,18,1571,13690,8056,"City, Population Size >= 250,000",48725,1060
+3120,Texas A & M University-Corpus Christi,Corpus Christi,TX,0.8797,9748,18,7818,10868,10722,"City, Population Size >= 250,000",42040,1090
+3122,Dallas Baptist University,Dallas,TX,0.9137,35310,17,2674,9351,11718,"City, Population Size >= 250,000",45180,1095
+3123,Dallas Christian College,Dallas,TX,0.5,20580,13,245,9620,9620,"Suburb, Population >= 250,000",37446,965
+3126,University of Dallas,Irving,TX,0.587,48000,12,1446,13810,9450,"City, Population Size >= 250,000",45275,1277
+3129,Texas A&M University-Texarkana,Texarkana,TX,0.9148,7930,14,1758,11476,11476,"City, Population < 100,000",37627,999
+3130,Texas A & M University-Commerce,Commerce,TX,0.8645,10026,20,7317,9728,12104,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40725,1050
+3144,Hardin-Simmons University,Abilene,TX,0.8825,31686,16,1323,9980,9980,"City, Population Size between 100,000 and 250,000",42087,1093
+3147,Houston Christian University,Houston,TX,0.8448,36750,15,2814,9130,9800,"City, Population Size >= 250,000",44824,1147
+3148,University of Houston-Clear Lake,Houston,TX,0.6937,7698,15,6343,9440,12909,"City, Population Size between 100,000 and 250,000",50983,1082
+3152,University of Houston,Houston,TX,0.6624,9699,21,37080,10418,10309,"City, Population Size >= 250,000",51697,1241
+3154,Howard Payne University,Brownwood,TX,0.6229,31650,10,721,9616,8544,"Rural Town, Urban Cluster 35 miles away from an urban area",38043,1033
+3155,Huston-Tillotson University,Austin,TX,0.5194,14703,16,991,8449,10710,"City, Population Size >= 250,000",34305,930
+3156,University of the Incarnate Word,San Antonio,TX,0.942,34400,13,4547,13122,12864,"City, Population Size >= 250,000",43731,1020
+3161,Lamar University,Beaumont,TX,0.8373,8690,20,8075,9884,8888,"City, Population Size between 100,000 and 250,000",40043,936
+3166,Texas A & M International University,Laredo,TX,0.4788,7846,19,6459,9210,9210,"City, Population Size >= 250,000",36774,1006
+3168,LeTourneau University,Longview,TX,0.4883,34470,13,1553,10370,11180,"City, Population < 100,000",49230,1239
+3170,Lubbock Christian University,Lubbock,TX,0.8159,26300,12,1221,8724,8724,"City, Population Size >= 250,000",42766,1068
+3172,University of Mary Hardin-Baylor,Belton,TX,0.9567,31950,17,3013,9900,9900,"Suburb, Population between 100,000 and 250,000",45766,1100
+3174,McMurry University,Abilene,TX,0.565,30422,13,1092,9250,6831,"City, Population Size between 100,000 and 250,000",40465,1138
+3184,University of North Texas,Denton,TX,0.7913,11140,23,33023,10412,10134,"City, Population Size between 100,000 and 250,000",45431,1127
+3192,The University of Texas Rio Grande Valley,Edinburg,TX,0.877,9538,19,26420,8888,8966,"City, Population Size between 100,000 and 250,000",37115,1020
+3197,Prairie View A & M University,Prairie View,TX,0.7607,11299,16,8103,9605,8069,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",34713,957
+3200,Rice University,Houston,TX,0.0868,54960,6,4480,15000,15000,"City, Population Size >= 250,000",68141,1546
+3201,Saint Edward's University,Austin,TX,0.851,50766,14,2751,13876,13876,"City, Population Size >= 250,000",46314,1165
+3203,University of St Thomas,Houston,TX,0.9671,32484,14,2524,9760,10090,"City, Population Size >= 250,000",52523,1171
+3204,Sam Houston State University,Huntsville,TX,0.8463,8960,20,18184,10908,10908,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44142,1056
+3215,Southern Methodist University,Dallas,TX,0.5225,61980,11,7044,17750,8700,"Suburb, Population >= 250,000",64596,1444
+3218,Southwestern Assemblies of God University,Waxahachie,TX,0.8565,17782,17,1435,8150,14250,"Suburb, Population >= 250,000",36135,1015
+3219,Southwestern University,Georgetown,TX,0.4479,48650,11,1480,12300,15170,"City, Population < 100,000",44990,1262
+3220,Stephen F Austin State University,Nacogdoches,TX,0.8951,10600,17,8961,9642,9642,"Rural Town, Urban Cluster 35 miles away from an urban area",41398,1067
+3221,Texas State University,San Marcos,TX,0.877,11135,21,33834,11460,10760,"City, Population < 100,000",46183,1090
+3222,Southwestern Adventist University,Keene,TX,0.5362,24060,12,659,8600,8600,"Fringe Town, Urban cluster that is 10 miles from an urban area",39053,1020
+3224,Sul Ross State University,Alpine,TX,0.9707,7649,12,1495,9744,9639,"Rural Town, Urban Cluster 35 miles away from an urban area",34896,972
+3225,Tarleton State University,Stephenville,TX,0.8706,7848,17,11880,10328,12117,"Rural Town, Urban Cluster 35 miles away from an urban area",44438,1061
+3232,Texas A & M University-Kingsville,Kingsville,TX,0.9655,9892,16,4562,9425,10197,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42646,1130
+3233,Texas A & M University-College Station,College Station,TX,0.6265,13239,18,56792,11550,11550,"City, Population Size between 100,000 and 250,000",57224,1281
+3234,The University of Texas at Arlington,Arlington,TX,0.808,11727,24,30503,11392,11392,"City, Population Size >= 250,000",53704,1112
+3235,The University of Texas at Austin,Austin,TX,0.3135,11698,18,40980,13058,13280,"City, Population Size >= 250,000",58194,1373
+3236,The University of Texas at Dallas,Richardson,TX,0.8474,14564,27,21586,12142,12048,"City, Population Size between 100,000 and 250,000",55455,1304
+3237,The University of Texas at El Paso,El Paso,TX,0.9992,9744,19,20123,9582,12302,"City, Population Size >= 250,000",37714,982
+3238,The University of Texas at Tyler,Tyler,TX,0.9387,9855,15,6568,9908,9118,"City, Population Size between 100,000 and 250,000",44858,1114
+3240,Texas Christian University,Fort Worth,TX,0.561,53980,14,10510,14250,14250,"City, Population Size >= 250,000",58828,1307
+3243,Texas Lutheran University,Seguin,TX,0.9183,33920,12,1307,11330,11030,"Fringe Town, Urban cluster that is 10 miles from an urban area",44580,1116
+3244,The University of Texas Permian Basin,Odessa,TX,0.9471,9234,18,4060,10668,11414,"City, Population Size between 100,000 and 250,000",47754,1011
+3245,The University of Texas at San Antonio,San Antonio,TX,0.869,8945,24,29112,11046,9972,"City, Population Size >= 250,000",44773,1111
+3246,Texas Southern University,Houston,TX,0.968,9173,18,6830,9664,14004,"City, Population Size >= 250,000",32833,922
+3247,Texas Tech University,Lubbock,TX,0.6734,11852,21,32346,10460,10460,"City, Population Size >= 250,000",50380,1198
+3248,Texas Wesleyan University,Fort Worth,TX,0.6093,36128,14,1549,10919,10919,"City, Population Size >= 250,000",41961,1025
+3249,Texas Woman's University,Denton,TX,0.9363,8311,16,8876,10368,8325,"City, Population Size between 100,000 and 250,000",45995,1041
+3250,Trinity University,San Antonio,TX,0.3051,49264,9,2491,14134,14134,"City, Population Size >= 250,000",56544,1390
+3262,West Texas A & M University,Canyon,TX,0.9163,9101,17,6828,9860,8582,"Fringe Town, Urban cluster that is 10 miles from an urban area",41997,1050
+3267,Brigham Young University,Provo,UT,0.6667,6304,21,31411,8560,8560,"City, Population Size between 100,000 and 250,000",53940,1376
+3268,Brigham Young University-Hawaii,Laie,HI,0.3421,6250,15,2716,8828,4800,"Fringe Town, Urban cluster that is 10 miles from an urban area",38180,1126
+3282,Utah State University,Logan,UT,0.9373,9228,19,20573,8232,8466,"City, Population < 100,000",42027,1187
+3285,University of Utah,Salt Lake City,UT,0.8913,9315,18,25392,11437,15012,"City, Population Size between 100,000 and 250,000",52102,1236
+3287,Westminster University,Salt Lake City,UT,0.6975,40352,8,955,11024,14667,"City, Population Size between 100,000 and 250,000",48633,1247
+3288,Bennington College,Bennington,VT,0.4531,61448,9,733,17720,17720,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",32121,1337
+3289,Castleton University,Castleton,VT,0.8051,13078,16,1585,12404,11216,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",37949,1102
+3290,Champlain College,Burlington,VT,0.5568,44220,14,3031,16330,13138,"City, Population < 100,000",46383,1259
+3297,Saint Michael's College,Colchester,VT,0.8515,49840,10,1200,14995,14995,"Suburb, Population between 100,000 and 250,000",44204,1253
+3302,University of Vermont,Burlington,VT,0.5979,18890,17,11326,13354,13606,"City, Population < 100,000",46351,1358
+3305,Averett University,Danville,VA,0.7603,37790,12,1121,11360,5034,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42084,1026
+3308,Bridgewater College,Bridgewater,VA,0.9036,39800,13,1379,13830,10080,"Suburb, Population < 100,000",43858,1127
+3309,William & Mary,Williamsburg,VA,0.335,23970,12,6778,13828,13828,"Suburb, Population < 100,000",54702,1465
+3310,Regent University,Virginia Beach,VA,0.3234,19680,21,4281,7174,9952,"City, Population Size >= 250,000",37590,1150
+3313,Christopher Newport University,Newport News,VA,0.8535,15425,13,4442,11990,13048,"City, Population Size between 100,000 and 250,000",48442,1199
+3322,Ferrum College,Ferrum,VA,0.843,38320,11,780,13230,13230,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",34610,1010
+3323,George Mason University,Fairfax,VA,0.9,13401,16,26447,13120,13774,"Suburb, Population >= 250,000",58412,1255
+3325,Hampden-Sydney College,Hampden-Sydney,VA,0.3979,50740,9,846,14634,11408,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",53609,1182
+3326,Hampton University,Hampton,VA,0.7447,29162,13,2846,12986,12986,"Suburb, Population >= 250,000",44267,1053
+3327,Hollins University,Roanoke,VA,0.724,41210,8,689,14960,14625,"Suburb, Population between 100,000 and 250,000",31660,1228
+3329,James Madison University,Harrisonburg,VA,0.7831,13092,17,19968,12040,12040,"City, Population < 100,000",55354,1241
+3332,Longwood University,Farmville,VA,0.8779,14840,13,3009,14318,14318,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42617,1116
+3334,University of Lynchburg,Lynchburg,VA,0.9594,34500,10,1543,13060,13060,"City, Population < 100,000",42815,1125
+3337,University of Mary Washington,Fredericksburg,VA,0.8579,14234,12,3443,12090,10000,"Suburb, Population between 100,000 and 250,000",46923,1260
+3345,Norfolk State University,Norfolk,VA,0.895,9622,18,5328,10844,10844,"City, Population Size between 100,000 and 250,000",34245,949
+3347,Old Dominion University,Norfolk,VA,0.9514,11220,16,18152,13480,13480,"City, Population Size between 100,000 and 250,000",44503,1172
+3352,Radford University,Radford,VA,0.9334,11916,12,5945,10567,10567,"Fringe Town, Urban cluster that is 10 miles from an urban area",44264,1057
+3354,Randolph-Macon College,Ashland,VA,0.8545,46460,10,1476,13510,11952,"Suburb, Population >= 250,000",47181,1122
+3360,University of Richmond,University of Richmond,VA,0.2437,60330,8,3069,14870,14870,"City, Population Size between 100,000 and 250,000",65044,1474
+3362,Roanoke College,Salem,VA,0.7976,35350,11,1801,15366,15564,"Suburb, Population between 100,000 and 250,000",44540,1172
+3366,Southern Virginia University,Buena Vista,VA,0.9945,19108,17,1053,9150,6700,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",30960,1089
+3371,Sweet Briar College,Sweet Briar,VA,0.7575,23590,8,451,14250,7100,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",37276,1232
+3375,University of Virginia's College at Wise,Wise,VA,0.7557,11498,14,993,11919,9726,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35374,1068
+3377,Virginia Polytechnic Institute and State University,Blacksburg,VA,0.5698,14586,17,30339,12680,12028,"City, Population < 100,000",65701,1337
+3379,Virginia Commonwealth University,Richmond,VA,0.91,15828,16,20552,12279,12730,"City, Population Size between 100,000 and 250,000",45582,1170
+3380,University of Virginia-Main Campus,Charlottesville,VA,0.1866,20342,15,17103,12890,12890,"Suburb, Population between 100,000 and 250,000",69344,1487
+3384,Virginia State University,Petersburg,VA,0.8972,9654,12,4295,11544,11544,"Suburb, Population >= 250,000",33848,910
+3385,Virginia Union University,Richmond,VA,0.8055,14305,17,1297,9286,5000,"City, Population Size between 100,000 and 250,000",31496,900
+3386,Virginia Wesleyan University,Virginia Beach,VA,0.8143,36910,13,1154,11070,11070,"City, Population Size >= 250,000",38299,1278
+3404,The Evergreen State College,Olympia,WA,0.7437,8750,17,1799,13806,13806,"Suburb, Population between 100,000 and 250,000",33724,1131
+3407,Gonzaga University,Spokane,WA,0.6974,50735,12,5018,13794,16055,"City, Population Size between 100,000 and 250,000",65106,1329
+3421,Northwest University,Kirkland,WA,0.9426,35000,9,662,10140,10140,"Suburb, Population >= 250,000",47683,1198
+3424,Pacific Lutheran University,Tacoma,WA,0.889,50928,11,2253,11826,11826,"Suburb, Population >= 250,000",53149,1338
+3426,University of Puget Sound,Tacoma,WA,0.8266,57626,9,1712,14430,14430,"City, Population Size between 100,000 and 250,000",46066,1301
+3428,Saint Martin's University,Lacey,WA,0.9504,42220,11,1344,13840,10848,"City, Population < 100,000",52460,1090
+3431,Seattle Pacific University,Seattle,WA,0.9071,37158,12,2409,14409,14409,"City, Population Size >= 250,000",50511,1205
+3432,Seattle University,Seattle,WA,0.8515,51324,10,4033,13524,13524,"City, Population Size >= 250,000",61038,1269
+3445,Western Washington University,Bellingham,WA,0.9269,8967,17,13686,14691,14691,"City, Population < 100,000",44786,1257
+3447,Whitman College,Walla Walla,WA,0.477,58622,9,1472,14220,14220,"City, Population < 100,000",45845,1416
+3448,Whitworth University,Spokane,WA,0.9052,48990,10,2037,13100,16515,"Suburb, Population >= 250,000",47405,1207
+3450,Alderson Broaddus University,Philippi,WV,0.6149,31500,14,633,10170,12300,"Distant Rural, Between 5 to 25 miles from an urban area and between 2.5 to 10 miles from an Urban Cluster",39093,991
+3452,Appalachian Bible College,Mount Hope,WV,1,17050,9,182,8560,6292,"Suburb, Population < 100,000",29303,1088
+3456,Bluefield State University,Bluefield,WV,0.9717,9840,14,1244,10200,10200,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",35084,999
+3461,Concord University,Athens,WV,0.9139,9100,15,1311,10090,10090,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",32450,1007
+3462,Davis & Elkins College,Elkins,WV,0.7526,30680,10,644,10125,8354,"Rural Town, Urban Cluster 35 miles away from an urban area",31540,985
+3463,Fairmont State University,Fairmont,WV,0.9849,8008,13,2776,10022,10022,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",36189,973
+3477,Shepherd University,Shepherdstown,WV,0.9586,8282,15,2325,10987,10987,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",40796,1064
+3481,West Virginia State University,Institute,WV,0.9618,8647,16,1362,12214,9568,"Suburb, Population between 100,000 and 250,000",33646,967
+3483,West Liberty University,West Liberty,WV,0.7409,8716,12,1648,10020,7380,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",35417,995
+3484,West Virginia University Institute of Technology,Beckley,WV,0.6458,7848,12,1038,11676,9200,"City, Population < 100,000",44071,1050
+3485,West Virginia Wesleyan College,Buckhannon,WV,0.9635,32976,11,886,10660,4000,"Rural Town, Urban Cluster 35 miles away from an urban area",38999,1067
+3490,West Virginia University,Morgantown,WV,0.8838,9360,17,18370,11618,9200,"City, Population < 100,000",44071,1116
+3497,Beloit College,Beloit,WI,0.6586,56312,10,921,10330,9161,"City, Population < 100,000",37612,1306
+3499,Cardinal Stritch University,Milwaukee,WI,0.9258,35444,7,526,8900,7200,"Suburb, Population >= 250,000",47325,980
+3500,Carroll University,Waukesha,WI,0.7214,36190,14,2689,11564,7552,"City, Population < 100,000",50885,1212
+3501,Carthage College,Kenosha,WI,0.8183,34500,13,2541,12648,12648,"City, Population < 100,000",44092,1160
+3502,Concordia University-Wisconsin,Mequon,WI,0.7037,33062,11,2556,12160,12160,"Suburb, Population >= 250,000",46700,1150
+3509,Lawrence University,Appleton,WI,0.7227,53979,8,1411,11520,8508,"City, Population < 100,000",38000,1358
+3510,Maranatha Baptist University,Watertown,WI,0.7508,18810,11,571,8380,8140,"Fringe Town, Urban cluster that is 10 miles from an urban area",36383,1117
+3511,Marian University,Fond Du Lac,WI,0.7155,30000,12,1058,8290,5100,"City, Population < 100,000",46644,1050
+3512,Marquette University,Milwaukee,WI,0.8721,46670,13,7290,14636,14636,"City, Population Size >= 250,000",61604,1302
+3519,Mount Mary University,Milwaukee,WI,0.6945,33390,9,640,9830,7400,"City, Population Size >= 250,000",39407,1050
+3524,Northland College,Ashland,WI,0.6839,41237,10,508,9688,9688,"Rural Town, Urban Cluster 35 miles away from an urban area",35443,1129
+3526,Saint Norbert College,De Pere,WI,0.8359,43204,11,1784,12202,9154,"Suburb, Population between 100,000 and 250,000",46413,1178
+3529,Viterbo University,La Crosse,WI,0.7238,31150,12,1456,10260,10260,"City, Population < 100,000",51465,1188
+3533,University of Wisconsin-Whitewater,Whitewater,WI,0.8238,7864,19,8893,7890,7890,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",45193,1090
+3536,University of Wisconsin-Eau Claire,Eau Claire,WI,0.7662,8914,19,9138,9014,9014,"City, Population < 100,000",47937,1190
+3537,University of Wisconsin-Green Bay,Green Bay,WI,0.8962,7873,23,6305,7634,7634,"City, Population Size between 100,000 and 250,000",43144,1090
+3538,University of Wisconsin-La Crosse,La Crosse,WI,0.7425,9232,19,9137,6942,6942,"City, Population < 100,000",48987,1190
+3539,Wisconsin Lutheran College,Milwaukee,WI,0.9383,33762,12,990,11380,8304,"City, Population Size >= 250,000",48252,1181
+3540,University of Wisconsin-Oshkosh,Oshkosh,WI,0.8852,7795,20,7812,8894,8894,"City, Population < 100,000",46326,1050
+3541,University of Wisconsin-Parkside,Kenosha,WI,0.7283,7466,17,2969,7966,7966,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",41318,1090
+3543,University of Wisconsin-Stout,Menomonie,WI,0.8631,9663,18,6176,8398,7589,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",48146,1120
+3544,University of Wisconsin-Superior,Superior,WI,0.956,8167,17,2021,7013,7013,"Suburb, Population between 100,000 and 250,000",40510,1050
+3545,University of Wisconsin-Madison,Madison,WI,0.4906,10796,18,35184,12894,12894,"City, Population Size >= 250,000",59235,1374
+3546,University of Wisconsin-Milwaukee,Milwaukee,WI,0.8632,9620,17,17076,10896,10896,"City, Population Size >= 250,000",44176,1090
+3547,University of Wisconsin-Platteville,Platteville,WI,0.8543,7862,20,5920,8072,9582,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",50529,1150
+3548,University of Wisconsin-River Falls,River Falls,WI,0.8448,8135,18,4327,8094,7300,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",43422,1090
+3549,University of Wisconsin-Stevens Point,Stevens Point,WI,0.8905,8376,21,6995,8000,8000,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",42283,1120
+3629,University of the Virgin Islands,Charlotte Amalie,VI,0.969,5235,8,1325,9900,11374,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",32082,911
+3631,Purdue University-Main Campus,West Lafayette,IN,0.527,9992,14,38438,10030,10030,"City, Population < 100,000",57836,1354
+3643,St. John's College,Santa Fe,NM,0.5408,37090,8,364,14710,10000,"Fringe Rural, <= 5 miles from an urban area and <= 2.5 miles from an Urban Cluster",30077,1383
+3714,New College of Florida,Sarasota,FL,0.7541,6916,7,669,10291,19041,"City, Population < 100,000",33793,1236
+3868,University of Washington-Bothell Campus,Bothell,WA,0.8808,12224,21,5166,15282,15282,"Suburb, Population >= 250,000",59911,1322
+3946,Soka University of America,Aliso Viejo,CA,0.5663,35544,7,445,13422,17784,"Suburb, Population >= 250,000",38688,1350
+4221,Florida Gulf Coast University,Fort Myers,FL,0.7439,6118,20,13788,9772,9672,"Suburb, Population >= 250,000",42608,1114
+4257,University of Connecticut-Stamford,Stamford,CT,0.9218,16650,21,2246,17230,15388,"City, Population Size between 100,000 and 250,000",58770,1116
+4408,DigiPen Institute of Technology,Redmond,WA,0.6637,36100,10,1058,15112,15112,"City, Population < 100,000",55473,1301
+4482,Johnson & Wales University-Charlotte,Charlotte,NC,0.7334,38442,13,1140,14876,10250,"City, Population Size >= 250,000",36348,1023
+4611,Visible Music College,Memphis,TN,0.2041,20000,6,208,6000,6000,"City, Population Size >= 250,000",34016,1120
+4712,The King's College,New York,NY,0.4527,21690,8,290,18394,16465,"City, Population Size >= 250,000",46896,1302
+4822,University of Minnesota-Rochester,Rochester,MN,0.717,13464,14,617,12882,12882,"City, Population Size between 100,000 and 250,000",54565,1190
+5066,John Paul the Great Catholic University,Escondido,CA,0.7959,28000,18,300,13230,13230,"Suburb, Population >= 250,000",33366,1066
+5068,Ottawa University-Surprise,Surprise,AZ,0.2866,33000,16,1098,15000,10000,"Suburb, Population >= 250,000",45136,1079
+5266,Augusta University,Augusta,GA,0.8553,8122,17,5098,9998,10145,"City, Population Size between 100,000 and 250,000",37800,1105
+5267,Middle Georgia State University,Macon,GA,0.9971,3958,18,6589,8770,11352,"City, Population Size between 100,000 and 250,000",35019,1020
+5289,University of North Georgia,Dahlonega,GA,0.6963,4995,18,15815,11950,9330,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",39951,1083
+5457,Kennesaw State University,Kennesaw,GA,0.6785,5786,22,38051,12947,12947,"Suburb, Population >= 250,000",45344,1133
+5461,Milligan University,Milligan,TN,0.6671,37550,9,726,7750,6516,"Suburb, Population between 100,000 and 250,000",41817,1190
+5471,Emory University-Oxford College,Oxford,GA,0.15,57948,10,1048,17016,17016,"Suburb, Population >= 250,000",68643,1487
+5492,Husson University,Bangor,ME,0.9131,21090,16,2338,11391,11550,"City, Population < 100,000",36926,1100
+5642,Purdue University Northwest,Hammond,IN,0.7282,8174,15,6083,8215,8445,"Suburb, Population >= 250,000",42371,1055
+5987,Commonwealth University of Pennsylvania,Bloomsburg,PA,0.9396,10848,19,9778,11691,10617,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",44099,1067
+5988,Pennsylvania Western University,California,PA,0.9362,10958,18,9203,11800,11800,"Distant Town, Urban Cluster is that is between 10 and 35 miles from an urban area",40310,1057
